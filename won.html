@@ -97,8 +97,8 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner desc">
-		   					<h2 class="heading-section">Practicing Area</h2>
-		   					<p class="fh5co-lead">Designed with <i class="icon-heart3"></i> by the fine folks at <a href="http://freehtml5.co" target="_blank">FreeHTML5.co</a></p>
+		   					<h2 class="heading-section">Página em Desenvolvimento</h2>
+		   					<p class="fh5co-lead">Página em desenvolvimento, disponível em breve.</p>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -107,7 +107,7 @@
 	  	</div>
 	</aside>
 
-	<div id="fh5co-project">
+	<!-- <div id="fh5co-project">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -207,7 +207,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 
 	<div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
@@ -215,13 +215,13 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Legal Advice</h2>
-					<p>We help people effectively fight their offenders back and successfully defend their own stand!</p>
+					<h2>Precisa de Ajuda ?</h2>
+					<p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
 				</div>
 			</div>
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center">
-					<p><a href="#" class="btn btn-default btn-lg">Consultation</a></p>
+					<p><a href="#" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
 				</div>
 			</div>
 		</div>
@@ -231,11 +231,11 @@
 		<div class="container">
 			<div class="row row-pb-md">
 				<div class="col-md-3 fh5co-widget">
-					<h4>Attorney's Law</h4>
+					<h4>Frase de escolha ou menus adicionais</h4>
 					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
-					<h4>Navigation</h4>
+					<h4>Navegação</h4>
 					<ul class="fh5co-footer-links">
 						<li><a href="./index.html">Home</a></li>
 						<li><a href="./practice.html">Especialidades</a></li>
@@ -247,21 +247,21 @@
 				</div>
 
 				<div class="col-md-3 col-md-push-1">
-					<h4>Contact Information</h4>
+					<h4>Informações de Contato</h4>
 					<ul class="fh5co-footer-links">
-						<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
+						<li>R. Couto Magalhães 2073, <br> Centro Franca - São Paulo</li>
+						<li><a href="tel://1234567920">+55 (16) 3721-7940</a></li>
 						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
+						<!-- <li><a href="http://gettemplates.co">gettemplates.co</a></li> -->
 					</ul>
 				</div>
 
 				<div class="col-md-3 col-md-push-1">
-					<h4>Opening Hours</h4>
+					<h4>Horário de Atendimento</h4>
 					<ul class="fh5co-footer-links">
-						<li>Mon - Thu: 9:00 - 21 00</li>
-						<li>Fri 8:00 - 21 00</li>
-						<li>Sat 9:30 - 15: 00</li>
+						<li>Segunda-feira - Sexta-feira: 9:00 - 18:00</li>
+						<!-- <li>Fri 8:00 - 21 00</li>
+						<li>Sat 9:30 - 15: 00</li> -->
 					</ul>
 				</div>
 
@@ -285,6 +285,7 @@
 
 		</div>
 	</footer>
+
 	</div>
 
 	<div class="gototop js-top">
@@ -313,6 +314,31 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
+	<!-- Whatsapp Plugin -->
+	<script class="tt" type="text/javascript">
+		(function(){
+			var options = {
+				whatsapp: "+55(16)993528888",
+				call_to_action: "Fale Conosco Agora !",
+				position:"left"
+			}
+			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
+			var s = document.createElement('script')
+			s.type = 'text/javascript'
+			s.async = true
+			s.src = `${url}/widget-send-button/js/init.js`
+			s.onload = function(){
+				WhWidgetSendButton.init(host,proto,options)
+			}
+			var x = document.querySelector(".tt")
+			x.parentNode.insertBefore(s,x)
+		})()
+
+		setTimeout(() => {
+			document.querySelector('.hasyTc').remove()
+		},4000);
+	</script>
+	
 	</body>
 </html>
 

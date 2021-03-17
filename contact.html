@@ -168,8 +168,7 @@
 		</div>
 	</div>
 	<div id="map" class="fh5co-map"></div>
-
-
+	
 	<div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
@@ -276,6 +275,31 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
+	<!-- Whatsapp Plugin -->
+	<script class="tt" type="text/javascript">
+		(function(){
+			var options = {
+				whatsapp: "+55(16)993528888",
+				call_to_action: "Fale Conosco Agora !",
+				position:"left"
+			}
+			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
+			var s = document.createElement('script')
+			s.type = 'text/javascript'
+			s.async = true
+			s.src = `${url}/widget-send-button/js/init.js`
+			s.onload = function(){
+				WhWidgetSendButton.init(host,proto,options)
+			}
+			var x = document.querySelector(".tt")
+			x.parentNode.insertBefore(s,x)
+		})()
+
+		setTimeout(() => {
+			document.querySelector('.hasyTc').remove()
+		},4000);
+	</script>
+	
 	</body>
 </html>
 
