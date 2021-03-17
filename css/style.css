@@ -1338,8 +1338,8 @@ h1, h2, h3, h4, h5, h6, figure {
   border: 2px solid #c7954a;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #fa7272 !important;
-  border-color: #fa7272 !important;
+  background: #3b2504 !important;
+  border-color: #3b2504 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -1513,3 +1513,4 @@ h1, h2, h3, h4, h5, h6, figure {
 .progress-bar{
   background-color: #3b2504!important;
 }
+
