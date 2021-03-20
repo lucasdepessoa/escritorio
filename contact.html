@@ -113,7 +113,7 @@
 			<div class="row">
 				<div class="col-md-3 animate-box"></div>
 				<div class="col-md-6 animate-box">
-					<h3>Calcule Aqui</h3>
+					<h3 class="pagetitle">Calcule Aqui</h3>
 					<form action="#">
 						<div class="row form-group">
 							<div class="col-md-12">
@@ -180,20 +180,71 @@
 
 						<div class="row form-group">
 							<div class="col-md-12">
-								<label for="subject">Subject</label>
-								<input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
+								<label for="E-mail">E-mail</label>
+								<input type="text" id="E-mail" class="form-control" placeholder="Digite o seu e-mail">
 							</div>
 						</div>
-
 						<div class="row form-group">
+							<div class="col-md-12 cnisBox">
+								<h3>Deseja Encaminhar o CNIS ?</h3>
+								<label>
+									<input type="file" class="form-control" id="arquivo">
+								</label>
+							</div>
+						</div>
+						<!-- <div class="row form-group">
 							<div class="col-md-12">
 								<label for="message">Message</label>
 								<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
 							</div>
+						</div> -->
+
+						<div class="form-group">
+							<div class="col-md-12">
+								<div class="table-responsive-vertical">
+									<table class="table table-bordered table-striped table-hover table-mc-red table-sm">
+										<thead>
+											<tr>
+												<th>#</th>
+												<th>Admissão</th>
+												<th>Recisão</th>
+												<th>Profissão</th>
+												<th>Insalubridade</th>
+												<th> - </th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td class="numerador">1</td>
+												<td data-title="Admissão">
+													<input type="date" id="admissao1" name="admissao1" class="form-control" required>
+												</td>
+												<td data-title="Recisão">
+													<input type="date" id="demissao1" name="demissao1" class="form-control" required>
+												</td>
+												<td data-title="Profissão"><input type="text" id="profissao1" name="profissao1" class="form-control prof" required>
+												</td>
+												<td data-title="Insalubridade">
+													<input type="checkbox" name="insalubre">
+												</td>
+												<td>
+													<button type="button" class="btn btn-danger deletaLinha" disabled>X</button> 
+												</td>
+											</tr>
+											<tr id="addBotao">
+												<td colspan="6"><button type="button" id="btnAddLinha" class="btn btn-small btn-success float-right">Período +</button></td>
+											</tr>
+										</tbody>
+									</table>
+									
+								</div>
+							</div>
 						</div>
 						<div class="form-group">
-							<input type="submit" value="Send Message" class="btn btn-primary">
+							<input type="submit" value="Enviar Cálculo" class="btn btn-primary">
 						</div>
+
+						
 
 					</form>		
 				</div>
