@@ -1834,10 +1834,13 @@ label{
   padding-right: 18px;
 }
 
-input[name="insalubre"]{
+input[class="insalubre"]{
   width: 30px;
   height: 30px;
   margin-left: 40%;
+}
+input[class="insalubre"]:checked{
+  background-color: #3b2504;
 }
 
 .prof {
@@ -1855,4 +1858,9 @@ input[name="insalubre"]{
 
 td.numerador{
   text-align: left!important;
+}
+
+input#enviaCalculo{
+  margin: 0px auto!important;
+  display: block;
 }
