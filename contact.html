@@ -131,7 +131,7 @@
 								<div class="col-md-6">
 									<label for="IEstado">Estado</label>
 									<select name="IEstado" class="form-control" id="estados">
-										
+
 									</select>
 								</div>
 								<div class="col-md-6">
@@ -366,7 +366,7 @@
 	</div>
 
 	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<!-- jQuery Easing -->
 	<script src="js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
@@ -391,7 +391,7 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 	<!-- calculadora -->
-	<script src="js/calculadora.js"></script>	
+	<script src="js/calculadora.js"></script>
 
 	<!-- Whatsapp Plugin -->
 	<script class="tt" type="text/javascript">
@@ -419,44 +419,44 @@
 	</script>
 
 	<script>
-			
-			$(document).ready(function () {
-		
-		$.getJSON('../json/estados_cidades.json', function (data) {
 
-			var items = [];
-			var options = '<option value="">Escolha um estado</option>';	
+		$(document).ready(function () {
 
-			$.each(data, function (key, val) {
-				options += '<option value="' + val.nome + '">' + val.nome + '</option>';
-			});					
-			$("#estados").html(options);				
-			
-			$("#estados").change(function () {				
-			
-				var options_cidades = '';
-				var str = "";					
-				
-				$("#estados option:selected").each(function () {
-					str += $(this).text();
-				});
-				
+			$.getJSON('../json/estados_cidades.json', function (data) {
+
+				var items = [];
+				var options = '<option value="">Escolha um estado</option>';
+
 				$.each(data, function (key, val) {
-					if(val.nome == str) {							
-						$.each(val.cidades, function (key_city, val_city) {
-							options_cidades += '<option value="' + val_city + '">' + val_city + '</option>';
-						});							
-					}
+					options += '<option value="' + val.nome + '">' + val.nome + '</option>';
 				});
+				$("#estados").html(options);
 
-				$("#cidades").html(options_cidades);
-				
-			}).change();		
-		
+				$("#estados").change(function () {
+
+					var options_cidades = '';
+					var str = "";
+
+					$("#estados option:selected").each(function () {
+						str += $(this).text();
+					});
+
+					$.each(data, function (key, val) {
+						if (val.nome == str) {
+							$.each(val.cidades, function (key_city, val_city) {
+								options_cidades += '<option value="' + val_city + '">' + val_city + '</option>';
+							});
+						}
+					});
+
+					$("#cidades").html(options_cidades);
+
+				}).change();
+
+			});
+
 		});
-	
-	});
-	
+
 	</script>
 
 </body>
