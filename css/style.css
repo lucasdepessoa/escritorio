@@ -1854,6 +1854,8 @@ input[class="insalubre"]:checked{
 
 #btnAddLinha{
   border-radius: 10px;
+  display: block;
+  float: right;
 }
 
 td.numerador{
