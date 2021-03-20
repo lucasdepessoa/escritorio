@@ -1807,9 +1807,13 @@ label{
   color: #c7954a;
 }
 
+.table-sm thead tr th{
+  color: #3b2504!important;
+}
+
 .pagetitle {
   color: #3b2504;
-  font-weight: 400;
+  font-weight: 450;
   text-transform: uppercase;
 }
 .cnisBox{
