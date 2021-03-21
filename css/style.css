@@ -1701,6 +1701,15 @@ input{
 }
 
 @media only screen and (max-width: 768px) {
+
+  tr#addBotao td{
+    height:64px;
+  }
+  button#btnAddLinha{
+    width: 100%;
+    margin-top: -4px;
+  }
+  
   /* For mobile phones: */
   [class*="col-"] {
     width: 100%;
