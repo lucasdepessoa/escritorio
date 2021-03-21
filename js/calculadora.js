@@ -98,7 +98,7 @@
             }
         })
 
-       
+
         let contrib = [], j = 0, aux = []
 
         //separa os valores por linha em ordem de inserção//
@@ -223,8 +223,6 @@
             }
         }
 
-        console.log(contrib)
-
         //antes de montar a mensagem, fazer uma verificação do gênero do trabalhador para verificar a insalubridade//
 
         let msgDetalhada = '', msg = `<h4>Cálculo Total de Contribuição</h4><br><br>`
@@ -245,44 +243,41 @@
         Adicional de Insalubridade em Meses : ${somaMesInsalubre.toFixed(2)} <br>
         Adicional de Insalubridade em Anos: ${somaAnoInsalubre.toFixed(2)}. <br>`
 
-        // $('#msgTOTAL').val(msg)
-        // $('#msgDETAIL').val(msgDetalhada)
-
-        document.write(msg)
+        return `${`${msg}<hr><br>${msgDetalhada}`}`
     }
 
 
-    function calculaTempo(inicioo,fimm){ //função de calculo de tempo por linha//
-    
+    function calculaTempo(inicioo, fimm) { //função de calculo de tempo por linha//
+
         let ini = moment(inicioo)
         let fim = moment(fimm)
         let result = moment.duration({
-          years: fim.year() - ini.year(),
-          months: fim.month() - ini.month(),
-          days: fim.date() - ini.date()
+            years: fim.year() - ini.year(),
+            months: fim.month() - ini.month(),
+            days: fim.date() - ini.date()
         })
-        return result 
+        return result
         /*Retorna um objeto, com métodos herdados da classe moment*/
-      }
-      
-      function inverteData(dd){ //função apenas para inverter datas
+    }
+
+    function inverteData(dd) { //função apenas para inverter datas
         let data = dd.split('-').reverse().join('-')
         return data
-      } 
+    }
 
 
 
 
     $('#enviaCalculo').on('click', function () {
 
-        catpuraValores()
+        let msg =  catpuraValores()
 
 
         $.ajax({
             type: 'post',
             url: 'php/calculadora.php',
             cache: false,
-            data: $('#formCalculo').serialize(),
+            data: `comando=enviaCalculo&msg=${msg}`,
             success: function (e) {
                 console.log(e)
             }
