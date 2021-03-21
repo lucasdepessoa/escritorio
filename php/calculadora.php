@@ -2,9 +2,6 @@
 
     #recebendo os dados para calculo#
     print_r($_POST);
-    if(isset($_POST['enviaCalculo']) and $_POST['enviaCalculo'] == 'um'){
-       print_r($_POST);
-    }
 
     exit();
 if ($_POST['enviaCalculo']) {

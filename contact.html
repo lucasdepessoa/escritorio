@@ -157,8 +157,8 @@
 							<div class="row form-group radio-group">
 								<div class="col-md-12 radio-buttons">
 									<label class="custom-radio">
-										<input type="radio" name="genero" id="IMasc" class="form-control"
-											value="masculino">
+										<input type="radio" name="genero" id="IFem" class="form-control"
+											value="feminino">
 										<span class="radio-btn">
 											<i class="fas fa-female"></i>
 											<div class="gender-icon">
@@ -170,8 +170,8 @@
 
 									</label>
 									<label class="custom-radio">
-										<input type="radio" name="genero" id="IFem" class="form-control"
-											value="feminino">
+										<input type="radio" name="genero" id="IMasc" class="form-control"
+											value="masculino">
 										<span class="radio-btn">
 											<i class="fas fa-male"></i>
 											<div class="gender-icon">
@@ -422,7 +422,7 @@
 
 		$(document).ready(function () {
 
-			$.getJSON('../json/estados_cidades.json', function (data) {
+			$.getJSON('json/estados_cidades.json', function (data) {
 
 				var items = [];
 				var options = '<option value="">Escolha um estado</option>';

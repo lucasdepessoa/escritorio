@@ -78,7 +78,7 @@
 
         linha.appendChild(tdAdmissao)
         linha.appendChild(tdRecisao)
-        linha.appendChild(tdProfissao)
+        linha.appendChild(tdProfissao) 
         linha.appendChild(tdInsalubre)
         linha.appendChild(tdDelLinha)
 
@@ -86,7 +86,17 @@
     })
 
 
-    
+    $('#enviaCalculo').on('click',function(){
+        $.ajax({
+            type:'post',
+            url:'../php/calculadora.php',
+            cache:false,
+            data:$('#formCalculo').serialize(),
+            success:function(e){
+                console.log(e)
+            }
+        })
+    })
 
 
 })()
