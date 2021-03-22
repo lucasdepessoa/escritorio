@@ -1,4 +1,9 @@
 (function () {
+
+    {   //livra a pagina de cache 
+        $('script.aleatorio').attr('src', `js/calculadora.js&v=${Math.random()}`)
+    }
+
     $('#btnAddLinha').on("click", function (e) {
 
         //Capturando o id da ultima linha que existe na tabela//
@@ -270,7 +275,7 @@
 
     $('#enviaCalculo').on('click', function () {
 
-        let msg =  catpuraValores()
+        let msg = catpuraValores()
 
 
         $.ajax({
@@ -279,7 +284,7 @@
             cache: false,
             data: `comando=enviaCalculo&msg=${msg}`,
             success: function (e) {
-                console.log(e)
+                document.write(`<h2>Os valores estão aparecendo dessa forma apenas para teste</h2><br>${e}`)
             }
         })
     })
