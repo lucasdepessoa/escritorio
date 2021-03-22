@@ -1700,6 +1700,17 @@ input{
 
 @media only screen and (max-width: 768px) {
 
+  img.ImgPadrao{
+    width: 100%!important;
+    height: 350px;
+    float: left;
+    margin: 4px 8px 10px 2px!important;
+  }
+
+  .mgTitle1{
+    margin-top:10px!important;
+  }
+
   tr#addBotao td{
     height:64px;
   }
@@ -1966,3 +1977,30 @@ input#enviaCalculo{
 }
 
 /*fim pagina de consulta*/
+
+/*
+  configurações da pagina padrão de noticias
+*/  
+.titleCor{
+  color: #c7954a;
+}
+
+.corpoTexto1{
+  text-align: justify;
+}
+.corpoTexto2{
+  text-align: justify
+}
+
+
+
+.ImgPadrao{
+  width: 34%;
+  height: 350px;
+  float: left;
+  margin: 0px 26px 0px 2px;
+}
+
+/*
+  Fim das configurações da pagina padrão de noticias
+*/
