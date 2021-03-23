@@ -276,8 +276,8 @@
     $('#enviaCalculo').on('click', function () {
 
         let msg = catpuraValores()
-
-
+        alert('flkajsdlfkjasd')
+        console.log(msg)
         $.ajax({
             type: 'post',
             url: 'php/calculadora.php',
@@ -285,6 +285,24 @@
             data: `comando=enviaCalculo&msg=${msg}`,
             success: function (e) {
                 document.write(`<h2>Os valores estão aparecendo dessa forma apenas para teste</h2><br>${e}`)
+            }
+        })
+    })
+
+
+    $('#enviarConsulta').on('click',function(){
+        
+        
+
+        let msg = $('#formConsulta').serialize()
+        
+        $.ajax({
+            type:'post',
+            url:'php/won.php',
+            cache:false,
+            data: `comando=enviarConsulta&msg=${msg}`,
+            success:function(e){
+                console.log(e)
             }
         })
     })
