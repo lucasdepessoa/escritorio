@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-bg-section {
   background: rgba(0, 0, 0, 0.05);
 }
-
+#fh5co-timeline,
 #fh5co-about,
 #fh5co-practice,
 #fh5co-testimonial,
@@ -431,6 +431,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   #fh5co-about,
+  #fh5co-timeline,
   #fh5co-practice,
   #fh5co-testimonial,
   #fh5co-started,
