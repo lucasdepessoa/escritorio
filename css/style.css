@@ -1985,7 +1985,9 @@ input#enviaCalculo{
 .titleCor{
   color: #c7954a;
 }
-
+.titleCor2{
+  color: #3b2504!important;
+}
 .corpoTexto1{
   text-align: justify;
 }
