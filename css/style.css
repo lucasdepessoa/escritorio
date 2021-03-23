@@ -1704,7 +1704,7 @@ input{
     width: 100%!important;
     height: 350px;
     float: left;
-    margin: 4px 8px 10px 2px!important;
+    margin: 4px 8px 28px 2px!important;
   }
 
   .mgTitle1{
@@ -2001,6 +2001,15 @@ input#enviaCalculo{
   margin: 0px 26px 0px 2px;
 }
 
+.sectionNoticia{
+  padding-bottom:5%!important;
+  padding-top: 5%!important;
+}
+
+.headerImg{
+  margin-bottom: 8px!important;
+  margin-left: 4px!important;
+}
 /*
   Fim das configurações da pagina padrão de noticias
 */
