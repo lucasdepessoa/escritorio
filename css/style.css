@@ -1885,7 +1885,7 @@ td.numerador{
   text-align: left!important;
 }
 
-input#enviaCalculo{
+button#enviaCalculo{
   margin: 0px auto!important;
   display: block;
 }
@@ -2016,3 +2016,19 @@ input#enviaCalculo{
 /*
   Fim das configurações da pagina padrão de noticias
 */
+
+
+
+/*pagina admin de conteudo*/
+button#enviarConteudo{
+  display: block;
+  margin: 0 auto;
+}
+
+form#formCriacao label{
+  color: #3b2504;
+}
+
+form#formCriacao textarea:focus{
+  border-color: #3b2504;
+}
