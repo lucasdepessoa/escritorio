@@ -83,22 +83,25 @@
 
 	
     <div id="fh5co-blog" class="fh5co-bg-section">
-		<div class="container">
+		<div class="container ">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Área de Criação de Conteúdo</h2>
 					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row corrigePadding">
                 <form id="formCriacao" action="#" method="POST">
                     <div class="row form-group">
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                             <label for="INome">Título Principal</label>
                             <input type="text" name="INome" id="INome" class="form-control"
                                 placeholder="Título Principal">
                         </div>
-                        <div class="col-md-6">
+                    </div>
+
+					<div class="row form-group">
+                        <div class="col-md-12">
                             <label for="INome">Sub-Título Principal</label>
                             <input type="text" name="INome" id="INome" class="form-control"
                                 placeholder="Sub-titulo Principal">
@@ -106,39 +109,29 @@
                     </div>
 
                     <div class="row form-group">
-                        <div class="col-md-2">
+                        <div class="col-md-12">
                             <label for="IEstado">Imagem Destaque 1</label>
                             <input type="file" name="INome" id="INome" class="form-control">
                         </div>
-                        <div class="col-md-5">
-                            <label for="INome">Sub-Título 1</label>
-                            <input type="text" name="INome" id="INome" class="form-control"
-                                placeholder="Sub-titulo Principal">
-                        </div>
-                        <div class="col-md-5">
-                            <label for="message">Conteúdo do artigo 1</label>
-                            <textarea name="necessidade" id="message" cols="30" rows="10" class="form-control"
-                                placeholder="Relate aqui a sua necessidade"></textarea>
-                        </div>
                     </div>
 
-                    
-                    <div class="row form-group">
-                        <div class="col-md-2">
-                            <label for="IEstado">Imagem Destaque 2</label>
-                            <input type="file" name="INome" id="INome" class="form-control">
-                        </div>
-                        <div class="col-md-5">
-                            <label for="INome">Sub-Título 2</label>
-                            <input type="text" name="INome" id="INome" class="form-control"
-                                placeholder="Sub-titulo Principal">
-                        </div>
-                        <div class="col-md-5">
-                            <label for="message">Conteúdo do artigo 2</label>
-                            <textarea name="necessidade" id="message" cols="30" rows="10" class="form-control"
-                                placeholder="Relate aqui a sua necessidade"></textarea>
-                        </div>
-                    </div>
+					<div class="row form-group">
+						<div class="col-md-12">
+					
+							<label for="INome">Sub-Título 1</label>
+							<input type="text" name="INome" id="INome" class="form-control"
+								placeholder="Sub-titulo Principal">
+					
+						</div>
+					</div>
+
+					<div class="row form-group">
+						<div class="col-md-12">		
+							<label for="message">Conteúdo do artigo 1</label>
+							<textarea name="necessidade" id="message" cols="30" rows="10" class="form-control"
+								placeholder="Relate aqui a sua necessidade"></textarea>	
+						</div>
+					</div>
 
                     <div class="form-group">
                         <button type="button" id="enviarConteudo" class="btn btn-primary">Aplicar Conteúdo</button>

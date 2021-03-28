@@ -1995,14 +1995,6 @@ button#enviaCalculo{
   text-align: justify
 }
 
-.corpoTexto2-1{
-  text-align: justify;
-}
-.corpoTexto2-2{
-  text-align: justify
-}
-
-
 
 
 
@@ -2023,16 +2015,8 @@ button#enviaCalculo{
   margin-left: 4px!important;
 }
 
-.ImgPadrao2{
-  width: 34%;
-  height: 350px;
-  float: right;
-  margin: 0px 26px 0px 2px;
-}
-
-.headerImg2{
-  margin-bottom: 8px!important;
-  margin-left: 4px!important;
+.corrigePadding{
+  padding: 0 20% 0 20%;
 }
 /*
   Fim das configurações da pagina padrão de noticias
