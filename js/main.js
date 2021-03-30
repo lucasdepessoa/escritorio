@@ -302,6 +302,25 @@
 
 	//my area//
 	{
+		//configuração do botão de enviar conteudo, na pagina de administração de conteudo//
+			$('#enviarConteudo').on('click',function(){
+				let fd = new FormData($("form[name='dados']")[0])
+				fd.append('comando','enviarConteudo')
+
+				$.ajax({
+					type:'post',
+					url:'php/blog.php',
+					cache: false,
+					data:fd,
+					processData: false,
+        			contentType: false,
+					success:function(e){
+						document.write(e)
+					}
+				})
+			})
+
+		//--//
 		
 	}
 

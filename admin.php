@@ -91,35 +91,35 @@
 				</div>
 			</div>
 			<div class="row corrigePadding">
-                <form id="formCriacao" action="#" method="POST">
+                <form id="formCriacao" name="dados" action="#" method="POST" enctype="multipart/form-data">
                     <div class="row form-group">
                         <div class="col-md-12">
-                            <label for="INome">Título Principal</label>
-                            <input type="text" name="INome" id="INome" class="form-control"
+                            <label for="ITitP1">Título Principal</label>
+                            <input type="text" name="ITitP1" id="ITitP1" class="form-control"
                                 placeholder="Título Principal">
                         </div>
                     </div>
 
 					<div class="row form-group">
                         <div class="col-md-12">
-                            <label for="INome">Sub-Título Principal</label>
-                            <input type="text" name="INome" id="INome" class="form-control"
+                            <label for="ISubTitP1">Sub-Título Principal</label>
+                            <input type="text" name="ISubTitP1" id="ISubTitP1" class="form-control"
                                 placeholder="Sub-titulo Principal">
                         </div>
                     </div>
 
                     <div class="row form-group">
                         <div class="col-md-12">
-                            <label for="IEstado">Imagem Destaque 1</label>
-                            <input type="file" name="INome" id="INome" class="form-control">
+                            <label for="IImg1">Imagem Destaque 1</label>
+                            <input type="file" name="IImg1" id="IImg1" class="form-control">
                         </div>
                     </div>
 
 					<div class="row form-group">
 						<div class="col-md-12">
 					
-							<label for="INome">Sub-Título 1</label>
-							<input type="text" name="INome" id="INome" class="form-control"
+							<label for="ISubTitSub1">Sub-Título 1</label>
+							<input type="text" name="ISubTitSub1" id="ISubTitSub1" class="form-control"
 								placeholder="Sub-titulo Principal">
 					
 						</div>
@@ -127,8 +127,8 @@
 
 					<div class="row form-group">
 						<div class="col-md-12">		
-							<label for="message">Conteúdo do artigo 1</label>
-							<textarea name="necessidade" id="message" cols="30" rows="10" class="form-control"
+							<label for="IConte1">Conteúdo do artigo 1</label>
+							<textarea name="IConte1" id="IConte1" cols="30" rows="10" class="form-control"
 								placeholder="Relate aqui a sua necessidade"></textarea>	
 						</div>
 					</div>
@@ -230,31 +230,6 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
-	<!-- Whatsapp Plugin
-	<script class="tt" type="text/javascript">
-		(function(){
-			var options = {
-				whatsapp: "+55(16)993528888",
-				call_to_action: "Fale Conosco Agora !",
-				position:"left"
-			}
-			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
-			var s = document.createElement('script')
-			s.type = 'text/javascript'
-			s.async = true
-			s.src = `${url}/widget-send-button/js/init.js`
-			s.onload = function(){
-				WhWidgetSendButton.init(host,proto,options)
-			}
-			var x = document.querySelector(".tt")
-			x.parentNode.insertBefore(s,x)
-		})()
-
-		setTimeout(() => {
-			document.querySelector('.sc-7dvmpp-1').remove()
-		},4000);
-	</script>
-	 -->
 	</body>
 </html>
 
