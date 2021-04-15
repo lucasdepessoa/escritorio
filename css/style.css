@@ -2037,3 +2037,7 @@ form#formCriacao label{
 form#formCriacao textarea:focus{
   border-color: #3b2504;
 }
+
+.arrumaPadding{
+  padding-bottom:14px!important;
+}

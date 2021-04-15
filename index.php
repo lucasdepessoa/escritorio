@@ -169,7 +169,6 @@
 				<h2>Porque nos escolher?</h2>
 				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo esse ullam omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit quod.</p>
 			</div>
-			Nível de Satisfação Google, mostrar nesse texto.
 			<!-- <div class="progress">
 				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
 				Direito Criminal 50%
@@ -193,7 +192,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-practice" class="fh5co-bg-section">
+	<div id="fh5co-practice" class="fh5co-bg-section arrumaPadding">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -340,11 +339,15 @@
 	<div id="fh5co-testimonial" class="fh5co-bg-section">
 		<div class="container">
 			<div class="row animate-box">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Testemunhos</h2>
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>DEPOIMENTOS</h2>
+					<h3>4.8 DE 5 ESTRELAS NO GOOGLE</h3>
+					<p>Nossa avaliação é de <strong>4.8</strong> de <strong>5</strong> no Google com diversos comentários. Você pode acessar
+					eles de forma pública digitando Aline Oliveira Advocacia Especializada ou <a target="_BLANK" href="https://www.google.com/search?q=aline+oliveira+advocacia+especializada&rlz=1C1GCEU_pt-BRBR869BR869&oq=aline+&aqs=chrome.0.69i59l2j69i57j46i433j69i60j69i61l3.1031j0j7&sourceid=chrome&ie=UTF-8#lrd=0x94b0a6313d669b41:0xaf34c298b029070c,1,,,">clicando aqui</a>.
+					</p>
 				</div>
 			</div>
-			<div class="row">
+			<!-- <div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row animate-box">
 						<div class="owl-carousel owl-carousel-fullwidth">
@@ -384,7 +387,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 
