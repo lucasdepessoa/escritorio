@@ -321,7 +321,7 @@
 	<script class="tt" type="text/javascript">
 		(function () {
 			var options = {
-				whatsapp: "+55(16)993528888",
+				whatsapp: "+55(16)993517878",
 				call_to_action: "Fale Conosco Agora !",
 				position: "left"
 			}
