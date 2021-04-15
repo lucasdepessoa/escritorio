@@ -22,7 +22,8 @@
                 <h4>Informações de Contato</h4>
                 <ul class="fh5co-footer-links">
                     <li>R. Couto Magalhães 2073, <br> Centro Franca - São Paulo</li>
-                    <li><a href="tel://1234567920">+55 (16) 3721-7940</a></li>
+                    <li><a href="tel://+551637217940">+55 (16) 3721-7940</a></li>
+                    <li><a href="tel://+5516992084825">+55 (16) 99208-7878</a></li>
                     <li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
                     <!-- <li><a href="http://gettemplates.co">gettemplates.co</a></li> -->
                 </ul>

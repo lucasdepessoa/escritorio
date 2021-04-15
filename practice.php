@@ -310,7 +310,7 @@
 		(function(){
 			var options = {
 				whatsapp: "+55(16)993517878",
-				call_to_action: "Fale Conosco Agora !",
+				call_to_action: "Fale Conosco Agora",
 				position:"left"
 			}
 			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
