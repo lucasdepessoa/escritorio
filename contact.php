@@ -71,10 +71,10 @@
 							<ul>
 								<li><a href="index.php">Home</a></li>
 								<li><a href="practice.php">Especialidades</a></li>
-								<li><a href="won.php">Consulta</a></li>
+								<li><a href="won.php">Consultas</a></li>
 								<li><a href="blog.php">Blog</a></li>
 								<li><a href="about.php">Sobre Nós</a></li>
-								<li class="active"><a href="contact.php">Calculadora</a></li>
+								<li class="active"><a href="contact.php">Calculadora de Aposentadoria</a></li>
 								<!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
 							</ul>
