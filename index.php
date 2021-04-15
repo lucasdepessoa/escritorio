@@ -136,24 +136,25 @@
 			<div class="row">
 				<div class="col-md-3 text-center animate-box">
 					<span class="icon"><i class="icon-user"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="27539" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">CLIENTES SATISFEITOS</span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="16" data-speed="5000" data-refresh-interval="50">Dias</span>
+					<span class="fh5co-counter-label">ANOS DE EXPERIÊNCIA</span>
 				</div>
 				<div class="col-md-3 text-center animate-box">
 					<span class="icon"><i class="icon-speech-bubble"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="23563" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">CASOS GANHOS</span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">CLIENTES ATENDIDOS</span>
 				</div>
 				<div class="col-md-3 text-center animate-box">
 					<span class="icon"><i class="icon-trophy"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="5067" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">PREMIAÇÕES</span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">CLIENTES APOSENTADOS</span>
 				</div>
 				<div class="col-md-3 text-center animate-box">
 					<span class="icon"><i class="icon-users"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="2587" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">ESPECIALISTAS</span>
+					<span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000" data-refresh-interval="50"></span>
+					<span class="fh5co-counter-label">VIDAS TRANSFORMADAS</span>
 				</div>
+				
 			</div>
 		</div>
 	</div>
@@ -168,7 +169,8 @@
 				<h2>Porque nos escolher?</h2>
 				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo esse ullam omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit quod.</p>
 			</div>
-			<div class="progress">
+			Nível de Satisfação Google, mostrar nesse texto.
+			<!-- <div class="progress">
 				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
 				Direito Criminal 50%
 				</div>
@@ -187,7 +189,7 @@
 				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:40%">
 				Direito Empresarial 40%
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 
@@ -195,8 +197,12 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Nossas Especialidades</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Especialidades</h2>
+					<p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas e seus benefícios
+						previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos especialistas em direito de 
+						família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos todos os direitos do
+						cidadão, em um só lugar.
+					</p>
 				</div>
 			</div>
 			<div class="row">
@@ -207,7 +213,9 @@
 						</span>
 						<div class="desc">
 							<h3><a href="#">Previdenciário</a></h3>
-							<p>Possuímos expertise em Direito Previdenciário, atuando há mais de 15 anos no ramo.</p>
+							<p>Possuímos expertise aprofundada em Direito Previdenciário, tanto no INSS, quanto nos Regimes Próprios de Previdência, atuando
+								há mais de 16 anos no ramo, com milhares de concessões de benefícios e milhares de famílias amparadas, pois acreditamos que cada
+								benefício concedido é uma família protegida.</p>
 						</div>
 					</div>
 				</div>
@@ -218,21 +226,25 @@
 						</span>
 						<div class="desc">
 							<h3><a href="#">Trabalhista</a></h3>
-							<p>O equilíbrio das relações trabalhistas e a garantida do Direito dos trabalhadores que são o nosso foco.</p>
+							<p>O equilíbrio das relações trabalhistas e a garantia do Direito dos trabalhadores são nosso foco, pois cremos que sustento familiar
+								provém de uma relação de trabalho saudável e equilibrada. Experiência comprovada há mais de 16 anos.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span class="icon">
-							<i class="far fa-building"></i>
+							<i class="fas fa-home"></i>
 						</span>
 						<div class="desc">
-							<h3><a href="#">Empresarial</a></h3>
-							<p>Um jurídico estratégico e integrado com o crescimento e proteção do seu negócio.</p>
+							<h3><a href="#">Família</a></h3>
+							<p>Atuamos no direito da família, na realização de inventários judiciais e extrajudiciais, testamentos, doações, heranças, proteção à paternidade/maternidade 
+								digna, proteção ao idoso, criança e adolescentes, estabelecimento de pensões alimentícias, bem como as execuções dessas, sempre resguardando o essencial a vida e a família.
+							</p>
 						</div>
 					</div>
 				</div>
+				
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span class="icon">
@@ -266,6 +278,7 @@
 						</div>
 					</div>
 				</div>
+				
 				<div class="col-md-12 text-center animate-box">
 					<p><a class="btn btn-primary btn-lg btn-learn" href="./practice.php">Veja Mais</a></p>
 				</div>

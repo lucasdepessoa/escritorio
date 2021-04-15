@@ -108,6 +108,16 @@
 					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
 				</div>
 			</div>
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Especialidades</h2>
+					<p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas e seus benefícios
+						previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos especialistas em direito de 
+						família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos todos os direitos do
+						cidadão, em um só lugar.
+					</p>
+				</div>
+			</div>
 			<div class="row">
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
@@ -116,7 +126,9 @@
 						</span>
 						<div class="desc">
 							<h3><a href="#">Previdenciário</a></h3>
-							<p>Possuímos expertise em Direito Previdenciário, atuando há mais de 15 anos no ramo.</p>
+							<p>Possuímos expertise aprofundada em Direito Previdenciário, tanto no INSS, quanto nos Regimes Próprios de Previdência, atuando
+								há mais de 16 anos no ramo, com milhares de concessões de benefícios e milhares de famílias amparadas, pois acreditamos que cada
+								benefício concedido é uma família protegida.</p>
 						</div>
 					</div>
 				</div>
@@ -127,7 +139,21 @@
 						</span>
 						<div class="desc">
 							<h3><a href="#">Trabalhista</a></h3>
-							<p>O equilíbrio das relações trabalhistas e a garantida do Direito dos trabalhadores que são o nosso foco.</p>
+							<p>O equilíbrio das relações trabalhistas e a garantia do Direito dos trabalhadores são nosso foco, pois cremos que sustento familiar
+								provém de uma relação de trabalho saudável e equilibrada. Experiência comprovada há mais de 16 anos.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 text-center animate-box">
+					<div class="services">
+						<span class="icon">
+							<i class="fas fa-home"></i>
+						</span>
+						<div class="desc">
+							<h3><a href="#">Família</a></h3>
+							<p>Atuamos no direito da família, na realização de inventários judiciais e extrajudiciais, testamentos, doações, heranças, proteção à paternidade/maternidade 
+								digna, proteção ao idoso, criança e adolescentes, estabelecimento de pensões alimentícias, bem como as execuções dessas, sempre resguardando o essencial a vida e a família.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -138,7 +164,9 @@
 						</span>
 						<div class="desc">
 							<h3><a href="#">Empresarial</a></h3>
-							<p>Um jurídico estratégico e integrado com o crescimento e proteção do seu negócio.</p>
+							<p>Um jurídico estratégico e integrado com o crescimento e proteção do seu negócio e de seu patrimônio, através de 
+								constituição de holdings, realização de compliance, implantação de medidas impostas pela LGPD, análises e formalizações
+								de contratos.</p>
 						</div>
 					</div>
 				</div>
@@ -164,6 +192,7 @@
 						</div>
 					</div>
 				</div>
+			
 				<div class="col-md-4 text-center animate-box">
 					<div class="services">
 						<span class="icon">
@@ -183,17 +212,6 @@
 						<div class="desc">
 							<h3><a href="#">Criminal</a></h3>
 							<p>Agir de forma rápida e inteligente faz sempre a diferença no âmbito criminal.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-home"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Familiar</a></h3>
-							<p>Zelo pela proteção dos direitos de famílias, idosos e menores, resguardando o essencial em vida e em caso de successões: Testamentos, heranças, etc.</p>
 						</div>
 					</div>
 				</div>
