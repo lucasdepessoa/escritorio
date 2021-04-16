@@ -131,6 +131,25 @@
 	  	</div>
 	</aside>
 
+	<div id="fh5co-practice2" class="fh5co-bg-section arrumaPadding2">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>CONSULTA ESPECIALIZADA EM TODO O BRASIL</h2>
+					<h4>Todas as soluções jurídicas em um só lugar</h4>
+					<h4>Atendimento presencial em Franca/SP e a distância (online) em todo o Brasil</h4>
+					<h4>AGENDE A SUA CONSULTA ESPECIALIZADA</h4>
+					<p>
+					
+						<a class="btn btn-primary btn-learn" href="./won.php">
+						ADVOGADOS ESPECIALISTAS À DISPOSIÇÃO <br>FALE AGORA.
+						</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<div id="fh5co-counter" class="fh5co-counters fh5co-bg-section">
 		<div class="container">
 			<div class="row">
@@ -196,7 +215,7 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Especialidades</h2>
+					<h2>ESPECIALIDADES</h2>
 					<p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas e seus benefícios
 						previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos especialistas em direito de 
 						família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos todos os direitos do
@@ -391,7 +410,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-consult">
+	<!-- <div id="fh5co-consult">
 		<div class="video fh5co-video" style="background-image: url(images/a8.png);">
 		</div>
 		<div class="choose animate-box">
@@ -401,32 +420,32 @@
 			<form action="#">
 				<div class="row form-group">
 					<div class="col-md-6">
-						<!-- <label for="fname">First Name</label> -->
+					
 						<input type="text" id="fname" class="form-control" placeholder="Seu Primeiro Nome">
 					</div>
 					<div class="col-md-6">
-						<!-- <label for="lname">Last Name</label> -->
+					
 						<input type="text" id="lname" class="form-control" placeholder="Seu Sobrenome">
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<!-- <label for="email">Email</label> -->
+					
 						<input type="text" id="email" class="form-control" placeholder="Seu E-mail">
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<!-- <label for="subject">Subject</label> -->
+						
 						<input type="text" id="subject" class="form-control" placeholder="O assunto da sua mensagem">
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<!-- <label for="message">Message</label> -->
+					
 						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Digite aqui a sua Mensagem"></textarea>
 					</div>
 				</div>
@@ -436,13 +455,13 @@
 
 			</form>	
 		</div>
-	</div>
+	</div> -->
 
 	<div id="fh5co-blog" class="fh5co-bg-section">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Postagens Recentes</h2>
+					<h2>POSTAGENS RECENTES</h2>
 					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
 				</div>
 			</div>
@@ -490,7 +509,7 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Nossos Especialistas</h2>
+					<h2>NOSSOS ESPECIALISTAS</h2>
 					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, mollitia quae ut illo, a quasi exercitationem vitae fugiat aliquid ipsam quos quam voluptatem qui molestiae est officia! Rerum, placeat suscipit!</p>
 				</div>
 			</div>

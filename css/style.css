@@ -2041,3 +2041,8 @@ form#formCriacao textarea:focus{
 .arrumaPadding{
   padding-bottom:14px!important;
 }
+
+.arrumaPadding2{
+  padding-bottom:0px!important;
+  padding-top: 16px!important;
+}
