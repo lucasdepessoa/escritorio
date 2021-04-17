@@ -1700,7 +1700,9 @@ input{
 }
 
 @media only screen and (max-width: 768px) {
-
+  .menuSocialDi{
+    display: none!important;
+  }
   img.ImgPadrao{
     width: 100%!important;
     height: 350px;
@@ -2046,3 +2048,47 @@ form#formCriacao textarea:focus{
   padding-bottom:0px!important;
   padding-top: 16px!important;
 }
+
+.arPad{
+  padding-bottom: 0!important;
+}
+
+.menuSocial li{
+  padding:6px 20px!important;
+  display: inline;
+}
+
+.menuSocial li i {
+  color: #3b2504;
+}
+.menuSocial{
+  float: left!important;
+  list-style: none;
+  margin-left: -23px!important;
+}
+
+.menuSocio {
+  background: #ece1d0;
+  height: 50px;
+  width: 100%;
+  padding-top:6px;
+  padding-bottom:0;
+}
+
+.menuSocialDi li {
+  padding:6px 20px!important;
+  display: inline;
+}
+.menuSocialDi {
+  float: right!important;
+  list-style: none;
+}
+
+.menuSocialDi li i {
+  color: #3b2504;
+}
+
+.menuSocialDi li span {
+  color: #3b2504!important;
+}
+
