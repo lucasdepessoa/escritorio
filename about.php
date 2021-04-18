@@ -56,6 +56,9 @@
 </head>
 
 <body>
+  <?php
+		require('php/menuSuperior.php');
+	?>
 
   <div class="fh5co-loader"></div>
 

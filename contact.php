@@ -2,386 +2,380 @@
 <html lang="pt-br">
 
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Aline Oliveira - Advocacia</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Aline Oliveira Advocacia" />
-	<meta name="keywords"
-		content="Aline Oliveira, Advogados, Franca - SP, Aline Oliveira Advocacia, Advogadas Franca, Advocacia Franca São Paulo" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Aline Oliveira - Advocacia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aline Oliveira Advocacia" />
+  <meta name="keywords"
+    content="Aline Oliveira, Advogados, Franca - SP, Aline Oliveira Advocacia, Advogadas Franca, Advocacia Franca São Paulo" />
 
 
 
-	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content="" />
-	<meta property="og:image" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:site_name" content="" />
-	<meta property="og:description" content="" />
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
+  <!-- Facebook and Twitter integration -->
+  <meta property="og:title" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:description" content="" />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="twitter:url" content="" />
+  <meta name="twitter:card" content="" />
 
-	<script src="https://kit.fontawesome.com/7cf40ba4e0.js" crossorigin="anonymous"></script>
-	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/7cf40ba4e0.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
 
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
-	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+  <!-- Animate.css -->
+  <link rel="stylesheet" href="css/animate.css">
+  <!-- Icomoon Icon Fonts-->
+  <link rel="stylesheet" href="css/icomoon.css">
+  <!-- Bootstrap  -->
+  <link rel="stylesheet" href="css/bootstrap.css">
 
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" href="css/magnific-popup.css">
 
-	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<!-- Flexslider  -->
-	<link rel="stylesheet" href="css/flexslider.css">
+  <!-- Owl Carousel  -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <!-- Flexslider  -->
+  <link rel="stylesheet" href="css/flexslider.css">
 
-	<!-- Theme style  -->
-	<link rel="stylesheet" href="css/style.css">
+  <!-- Theme style  -->
+  <link rel="stylesheet" href="css/style.css">
 
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
+  <!-- Modernizr JS -->
+  <script src="js/modernizr-2.6.2.min.js"></script>
+  <!-- FOR IE9 below -->
+  <!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
 </head>
 
 <body>
+  <?php
+		require('php/menuSuperior.php');
+	?>
 
-	<div class="fh5co-loader"></div>
+  <div class="fh5co-loader"></div>
 
-	<div id="page">
-		<nav class="fh5co-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="fh5co-logo"><a href="index.php"><img class="brand-logo"
-										src="./images/logo.png"><span></span></a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-								<li><a href="index.php">Home</a></li>
-								<li><a href="practice.php">Especialidades</a></li>
-								<li><a href="won.php">Consultas</a></li>
-								<li><a href="blog.php">Blog</a></li>
-								<li><a href="about.php">Sobre Nós</a></li>
-								<li class="active"><a href="contact.php">Calculadora de Aposentadoria</a></li>
-								<!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
+  <div id="page">
+    <nav class="fh5co-nav" role="navigation">
+      <div class="top-menu">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-2">
+              <div id="fh5co-logo"><a href="index.php"><img class="brand-logo" src="./images/logo.png"><span></span></a>
+              </div>
+            </div>
+            <div class="col-xs-10 text-right menu-1">
+              <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="practice.php">Especialidades</a></li>
+                <li><a href="won.php">Consultas</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="about.php">Sobre Nós</a></li>
+                <li class="active"><a href="contact.php">Calculadora de Aposentadoria</a></li>
+                <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
-							</ul>
-						</div>
-					</div>
+              </ul>
+            </div>
+          </div>
 
-				</div>
-			</div>
-		</nav>
+        </div>
+      </div>
+    </nav>
 
-		<aside id="fh5co-hero" class="js-fullheight">
-			<div class="flexslider js-fullheight">
-				<ul class="slides">
-					<li style="background-image: url(images/img_bg_1.jpg);">
-						<div class="overlay-gradient"></div>
-						<div class="container">
-							<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
-								<div class="slider-text-inner desc">
-									<h2 class="heading-section">Calcule o seu tempo de Contribuição</h2>
-									<p>Realize o seu cálculo de tempo de contribuição conosco sem compromisso !<br>
-										Iremos entrar em contato para mais detalhes</p>
-								</div>
-							</div>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</aside>
+    <aside id="fh5co-hero" class="js-fullheight">
+      <div class="flexslider js-fullheight">
+        <ul class="slides">
+          <li style="background-image: url(images/img_bg_1.jpg);">
+            <div class="overlay-gradient"></div>
+            <div class="container">
+              <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+                <div class="slider-text-inner desc">
+                  <h2 class="heading-section">Calcule o seu tempo de Contribuição</h2>
+                  <p>Realize o seu cálculo de tempo de contribuição conosco sem compromisso !<br>
+                    Iremos entrar em contato para mais detalhes</p>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </aside>
 
-		<div id="fh5co-contact">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-3 animate-box"></div>
-					<div class="col-md-6 animate-box">
-						<h3 class="pagetitle">Calcule Aqui e Entraremos em Contato</h3>
-						<form id="formCalculo" action="?" method="POST">
-							<div class="row form-group">
-								<div class="col-md-12">
-									<label for="INome">Nome Completo</label>
-									<input type="text" name="INome" id="INome" class="form-control"
-										placeholder="Digite seu Nome Completo">
-								</div>
-							</div>
+    <div id="fh5co-contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 animate-box"></div>
+          <div class="col-md-6 animate-box">
+            <h3 class="pagetitle">Calcule Aqui e Entraremos em Contato</h3>
+            <form id="formCalculo" action="?" method="POST">
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label for="INome">Nome Completo</label>
+                  <input type="text" name="INome" id="INome" class="form-control"
+                    placeholder="Digite seu Nome Completo">
+                </div>
+              </div>
 
-							<div class="row form-group">
-								<div class="col-md-6">
-									<label for="IEstado">Estado</label>
-									<select name="IEstado" class="form-control" id="estados">
+              <div class="row form-group">
+                <div class="col-md-6">
+                  <label for="IEstado">Estado</label>
+                  <select name="IEstado" class="form-control" id="estados">
 
-									</select>
-								</div>
-								<div class="col-md-6">
-									<label for="ICidade">Cidade</label>
-									<select name="ICidade" class="form-control" id="cidades">
+                  </select>
+                </div>
+                <div class="col-md-6">
+                  <label for="ICidade">Cidade</label>
+                  <select name="ICidade" class="form-control" id="cidades">
 
-									</select>
-								</div>
-							</div>
+                  </select>
+                </div>
+              </div>
 
-							<div class="row form-group">
-								<div class="col-md-6">
-									<label for="IDataNasc">Data de Nascimento</label>
-									<input type="date" name="IDataNasc" id="IDataNasc" class="form-control"
-										placeholder="dd/mm/aaaa">
-								</div>
-								<div class="col-md-6">
-									<label for="lPhone">Telefone/Celular</label>
-									<input type="text" name="IPhone" id="IPhone" class="form-control"
-										placeholder="+55 (99) 99999-9999">
-								</div>
-							</div>
+              <div class="row form-group">
+                <div class="col-md-6">
+                  <label for="IDataNasc">Data de Nascimento</label>
+                  <input type="date" name="IDataNasc" id="IDataNasc" class="form-control" placeholder="dd/mm/aaaa">
+                </div>
+                <div class="col-md-6">
+                  <label for="lPhone">Telefone/Celular</label>
+                  <input type="text" name="IPhone" id="IPhone" class="form-control" placeholder="+55 (99) 99999-9999">
+                </div>
+              </div>
 
-							<div class="row form-group radio-group">
-								<div class="col-md-12 radio-buttons">
-									<label class="custom-radio">
-										<input type="radio" name="genero" id="IFem" class="form-control"
-											value="feminino" checked>
-										<span class="radio-btn">
-											<i class="fas fa-female"></i>
-											<div class="gender-icon">
-												<h3>Feminino</h3>
-											</div>
-										</span>
+              <div class="row form-group radio-group">
+                <div class="col-md-12 radio-buttons">
+                  <label class="custom-radio">
+                    <input type="radio" name="genero" id="IFem" class="form-control" value="feminino" checked>
+                    <span class="radio-btn">
+                      <i class="fas fa-female"></i>
+                      <div class="gender-icon">
+                        <h3>Feminino</h3>
+                      </div>
+                    </span>
 
 
-									</label>
-									<label class="custom-radio">
-										<input type="radio" name="genero" id="IMasc" class="form-control"
-											value="masculino">
-										<span class="radio-btn">
-											<i class="fas fa-male"></i>
-											<div class="gender-icon">
-												<h3>Masculino</h3>
-											</div>
-										</span>
-									</label>
-								</div>
-							</div>
+                  </label>
+                  <label class="custom-radio">
+                    <input type="radio" name="genero" id="IMasc" class="form-control" value="masculino">
+                    <span class="radio-btn">
+                      <i class="fas fa-male"></i>
+                      <div class="gender-icon">
+                        <h3>Masculino</h3>
+                      </div>
+                    </span>
+                  </label>
+                </div>
+              </div>
 
-							<div class="row form-group">
-								<div class="col-md-12">
-									<label for="IEmail">Email</label>
-									<input type="text" name="IEmail" id="IEmail" class="form-control"
-										placeholder="Digite o seu E-mail">
-								</div>
-							</div>
-							<div class="row form-group">
-								<div class="col-md-12 cnisBox">
-									<h3>Deseja Encaminhar o CNIS ?</h3>
-									<label>
-										<input type="file" name="IArquivo" class="form-control" id="arquivo">
-									</label>
-								</div>
-							</div>
-							<!-- <div class="row form-group">
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label for="IEmail">Email</label>
+                  <input type="text" name="IEmail" id="IEmail" class="form-control" placeholder="Digite o seu E-mail">
+                </div>
+              </div>
+              <div class="row form-group">
+                <div class="col-md-12 cnisBox">
+                  <h3>Deseja Encaminhar o CNIS ?</h3>
+                  <label>
+                    <input type="file" name="IArquivo" class="form-control" id="arquivo">
+                  </label>
+                </div>
+              </div>
+              <!-- <div class="row form-group">
 							<div class="col-md-12">
 								<label for="message">Message</label>
 								<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
 							</div>
 						</div> -->
 
-							<div class="form-group">
-								<div class="col-md-12">
-									<div class="table-responsive-vertical">
-										<table
-											class="table table-bordered table-striped table-hover table-mc-red table-sm">
-											<thead>
-												<tr>
-													<th>#</th>
-													<th>Admissão</th>
-													<th>Recisão</th>
-													<th>Profissão</th>
-													<th>Insalubridade</th>
-													<th> </th>
-												</tr>
-											</thead>
-											<tbody id="corpoProfissao">
-												<tr id="1">
-													<td class="numerador">1</td>
-													<td data-title="Admissão">
-														<input type="date" id="admissao1" name="admissao1"
-															class="form-control" required>
-													</td>
-													<td data-title="Recisão">
-														<input type="date" id="demissao1" name="demissao1"
-															class="form-control" required>
-													</td>
-													<td data-title="Profissão"><input type="text" id="profissao1"
-															name="profissao1" class="form-control prof" required>
-													</td>
-													<td data-title="Insalubridade">
-														<input type="checkbox" name="insalubre" class="insalubre">
-													</td>
-													<td>
-														<button type="button" class="btn btn-danger deletaLinha"
-															disabled>X</button>
-													</td>
-												</tr>
-												<tr id="addBotao">
-													<td colspan="6"><button type="button" id="btnAddLinha"
-															class="btn btn-small btn-success float-right">Período
-															+</button></td>
-												</tr>
-											</tbody>
-										</table>
+              <div class="form-group">
+                <div class="col-md-12">
+                  <div class="table-responsive-vertical">
+                    <table class="table table-bordered table-striped table-hover table-mc-red table-sm">
+                      <thead>
+                        <tr>
+                          <th>#</th>
+                          <th>Admissão</th>
+                          <th>Recisão</th>
+                          <th>Profissão</th>
+                          <th>Insalubridade</th>
+                          <th> </th>
+                        </tr>
+                      </thead>
+                      <tbody id="corpoProfissao">
+                        <tr id="1">
+                          <td class="numerador">1</td>
+                          <td data-title="Admissão">
+                            <input type="date" id="admissao1" name="admissao1" class="form-control" required>
+                          </td>
+                          <td data-title="Recisão">
+                            <input type="date" id="demissao1" name="demissao1" class="form-control" required>
+                          </td>
+                          <td data-title="Profissão"><input type="text" id="profissao1" name="profissao1"
+                              class="form-control prof" required>
+                          </td>
+                          <td data-title="Insalubridade">
+                            <input type="checkbox" name="insalubre" class="insalubre">
+                          </td>
+                          <td>
+                            <button type="button" class="btn btn-danger deletaLinha" disabled>X</button>
+                          </td>
+                        </tr>
+                        <tr id="addBotao">
+                          <td colspan="6"><button type="button" id="btnAddLinha"
+                              class="btn btn-small btn-success float-right">Período
+                              +</button></td>
+                        </tr>
+                      </tbody>
+                    </table>
 
-									</div>
-								</div>
-							</div>
-							<div class="form-group">
-								<button type="button" id="enviaCalculo" class="btn btn-primary">Enviar Cálculo</button>
-							</div>
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <button type="button" id="enviaCalculo" class="btn btn-primary">Enviar Cálculo</button>
+              </div>
 
 
 
-						</form>
-					</div>
-					<div class="col-md-1 animate-box"></div>
-				</div>
+            </form>
+          </div>
+          <div class="col-md-1 animate-box"></div>
+        </div>
 
-			</div>
-		</div>
+      </div>
+    </div>
 
-		<div id="map" class="fh5co-map"></div>
+    <div id="map" class="fh5co-map"></div>
 
-		<div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
-			<div class="overlay"></div>
-			<div class="container">
-				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-						<h2>Precisa de Ajuda ?</h2>
-						<p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
-					</div>
-				</div>
-				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2 text-center">
-						<p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
+    <div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>Precisa de Ajuda ?</h2>
+            <p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
+          </div>
+        </div>
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center">
+            <p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-		<?php
+    <?php
 			require('./php/foot.php');
 		?>
 
-	</div>
+  </div>
 
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
+  <div class="gototop js-top">
+    <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+  </div>
 
-	<!-- jQuery -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Stellar Parallax -->
-	<script src="js/jquery.stellar.min.js"></script>
-	<!-- Carousel -->
-	<script src="js/owl.carousel.min.js"></script>
-	<!-- Flexslider -->
-	<script src="js/jquery.flexslider-min.js"></script>
-	<!-- countTo -->
-	<script src="js/jquery.countTo.js"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
-	<!-- Google Map
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <!-- jQuery Easing -->
+  <script src="js/jquery.easing.1.3.js"></script>
+  <!-- Bootstrap -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- Waypoints -->
+  <script src="js/jquery.waypoints.min.js"></script>
+  <!-- Stellar Parallax -->
+  <script src="js/jquery.stellar.min.js"></script>
+  <!-- Carousel -->
+  <script src="js/owl.carousel.min.js"></script>
+  <!-- Flexslider -->
+  <script src="js/jquery.flexslider-min.js"></script>
+  <!-- countTo -->
+  <script src="js/jquery.countTo.js"></script>
+  <!-- Magnific Popup -->
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/magnific-popup-options.js"></script>
+  <!-- Google Map
 	<script
 		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
 	<script src="js/google_map.js"></script> -->
-	<!-- moment js-->
-	<script src="js/moment.js"></script>
-	<!-- Main -->
-	<script src="js/main.js"></script>
-	<!-- calculadora -->
-	<script class="aleatorio" src="js/calculadora.js"></script>
+  <!-- moment js-->
+  <script src="js/moment.js"></script>
+  <!-- Main -->
+  <script src="js/main.js"></script>
+  <!-- calculadora -->
+  <script class="aleatorio" src="js/calculadora.js"></script>
 
-	<!-- Whatsapp Plugin -->
-	<script class="tt" type="text/javascript">
-		(function () {
-			var options = {
-				whatsapp: "+55(16)993517878",
-				call_to_action: "Fale Conosco Agora",
-				position: "left"
-			}
-			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
-			var s = document.createElement('script')
-			s.type = 'text/javascript'
-			s.async = true
-			s.src = `${url}/widget-send-button/js/init.js`
-			s.onload = function () {
-				WhWidgetSendButton.init(host, proto, options)
-			}
-			var x = document.querySelector(".tt")
-			x.parentNode.insertBefore(s, x)
-		})()
+  <!-- Whatsapp Plugin -->
+  <script class="tt" type="text/javascript">
+  (function() {
+    var options = {
+      whatsapp: "+55(16)993517878",
+      call_to_action: "Fale Conosco Agora",
+      position: "left"
+    }
+    var proto = document.location.protocol,
+      host = "whatshelp.io",
+      url = `${proto}//static.${host}`
+    var s = document.createElement('script')
+    s.type = 'text/javascript'
+    s.async = true
+    s.src = `${url}/widget-send-button/js/init.js`
+    s.onload = function() {
+      WhWidgetSendButton.init(host, proto, options)
+    }
+    var x = document.querySelector(".tt")
+    x.parentNode.insertBefore(s, x)
+  })()
 
-		setTimeout(() => {
-			document.querySelector('.sc-7dvmpp-1').remove()
-		}, 4000);
-	</script>
+  setTimeout(() => {
+    document.querySelector('.sc-7dvmpp-1').remove()
+  }, 4000);
+  </script>
 
-	<script>
+  <script>
+  $(document).ready(function() {
 
-		$(document).ready(function () {
+    $.getJSON('json/estados_cidades.json', function(data) {
 
-			$.getJSON('json/estados_cidades.json', function (data) {
+      var items = [];
+      var options = '<option value="">Escolha um estado</option>';
 
-				var items = [];
-				var options = '<option value="">Escolha um estado</option>';
+      $.each(data, function(key, val) {
+        options += '<option value="' + val.nome + '">' + val.nome + '</option>';
+      });
+      $("#estados").html(options);
 
-				$.each(data, function (key, val) {
-					options += '<option value="' + val.nome + '">' + val.nome + '</option>';
-				});
-				$("#estados").html(options);
+      $("#estados").change(function() {
 
-				$("#estados").change(function () {
+        var options_cidades = '';
+        var str = "";
 
-					var options_cidades = '';
-					var str = "";
+        $("#estados option:selected").each(function() {
+          str += $(this).text();
+        });
 
-					$("#estados option:selected").each(function () {
-						str += $(this).text();
-					});
+        $.each(data, function(key, val) {
+          if (val.nome == str) {
+            $.each(val.cidades, function(key_city, val_city) {
+              options_cidades += '<option value="' + val_city + '">' + val_city + '</option>';
+            });
+          }
+        });
 
-					$.each(data, function (key, val) {
-						if (val.nome == str) {
-							$.each(val.cidades, function (key_city, val_city) {
-								options_cidades += '<option value="' + val_city + '">' + val_city + '</option>';
-							});
-						}
-					});
+        $("#cidades").html(options_cidades);
 
-					$("#cidades").html(options_cidades);
+      }).change();
 
-				}).change();
+    });
 
-			});
-
-		});
-
-	</script>
+  });
+  </script>
 
 </body>
 

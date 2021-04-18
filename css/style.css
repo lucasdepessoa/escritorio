@@ -2099,3 +2099,7 @@ form#formCriacao textarea:focus{
 .botaoMais h3 {
   color: #c7954b;
 }
+
+.menuSocial li i {
+  font-size:20px!important;
+}

@@ -54,29 +54,12 @@
 </head>
 
 <body>
-  <div class="menuSocio">
-    <ul class="menuSocial">
-      <li><span class="icon"><a href="https://www.facebook.com/alineoliveiraadvocacia/" target="_BLANK"><i
-              class="fa fa-facebook"></i></a></span></li>
-      <li><span class="icon"><a href="https://www.instagram.com/alineoliveiraadvocacia/" target="_BLANK"><i
-              class="fa fa-instagram"></i></a></span></li>
-      <li><span class="icon"><a href="https://youtube.com/channel/UCpvD5JL1bOiC8sWQW8ozc7g" target="_BLANK"><i
-              class="fa fa-youtube"></i></a></span></li>
-      <li><span class="icon"><a href="https://www.linkedin.com/company/alineoliveiraadvocacia/" target="_BLANK"><i
-              class="fa fa-linkedin"></i></a></span></li>
-    </ul>
-    <ul class="menuSocialDi">
-      <li><a
-          href="https://www.google.com/maps/place/R.+Couto+Magalh%C3%A3es,+2073+-+Centro,+Franca+-+SP,+14400-020/@-20.5348401,-47.4039101,19z/data=!3m1!4b1!4m5!3m4!1s0x94b0a6313da190ff:0x915a8bbf61ebbd86!8m2!3d-20.5348414!4d-47.4033629"
-          target="_BLANK"><span class="icon"><i class="fa fa-map-marker"></i> R. Couto Magalhães 2073, Centro
-            Franca-SP</a></span></li>
-      <li><span class="icon"><a href="mailto:email@alineoliveira.com.br"><i class="fa fa-envelope"></i></a>
-          email@alineoliveira.com.br</span> </li>
-      <li><span class="icon"><a href="tel://+551637217940"><i class="fa fa-phone"></i></a> (16) 3721-7940</span> </li>
-    </ul>
-  </div>
-
-  <div class="fh5co-loader"></div>
+	
+	<?php
+		require('php/menuSuperior.php');
+	?>
+  
+	<div class="fh5co-loader"></div>
 
   <div id="page">
 
@@ -97,8 +80,6 @@
                 <li><a href="blog.php">Blog</a></li>
                 <li><a href="about.php">Sobre Nós</a></li>
                 <li><a href="contact.php">Calculadora de Aposentadoria</a></li>
-                <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
-							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
               </ul>
             </div>
           </div>
@@ -224,26 +205,6 @@
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo esse ullam
             omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit quod.</p>
         </div>
-        <!-- <div class="progress">
-				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
-				Direito Criminal 50%
-				</div>
-			</div>
-			<div class="progress">
-				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:80%">
-				Direito Cível 80%
-				</div>
-			</div>
-			<div class="progress">
-				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:70%">
-				Direito Trabalhista 70%
-				</div>
-			</div>
-			<div class="progress">
-				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:40%">
-				Direito Empresarial 40%
-				</div>
-			</div> -->
       </div>
     </div>
 
@@ -350,57 +311,6 @@
         </div>
       </div>
     </div>
-    <!-- 	
-	<div id="fh5co-project">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Counseling</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/project-1.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Business</h3>
-						<span>CEO. Hon Doe</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/project-2.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Legal Advice</h3>
-						<span>Atty. John Doe</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/project-3.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Read Bible</h3>
-						<span>Ptr. Jhon Doe</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/project-4.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Affidavit</h3>
-						<span>Atty. Boo Doe</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/project-5.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Sports</h3>
-						<span>Atty. Smith D</span>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 text-center fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="#"><img src="images/project-6.jpg" alt="Free HTML5 Website Template by FreeHTML5.co" class="img-responsive">
-						<h3>Photography</h3>
-						<span>Phtr. Arnt Tee</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div> -->
 
     <div id="fh5co-testimonial" class="fh5co-bg-section arPad">
       <div class="container">

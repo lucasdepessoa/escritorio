@@ -1,11 +1,7 @@
 <footer id="fh5co-footer" role="contentinfo">
     <div class="container">
         <div class="row row-pb-md">
-            <div class="col-md-3 fh5co-widget">
-                <h4>Frase de escolha ou menus adicionais</h4>
-                <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-            </div>
-            <div class="col-md-3 col-md-push-1">
+            <div class="col-md-4 col-md-push-1">
                 <h4>Navegação</h4>
                 <ul class="fh5co-footer-links">
                     <li><a href="./index.html">Home</a></li>
@@ -18,7 +14,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-3 col-md-push-1">
+            <div class="col-md-4 col-md-push-1">
                 <h4>Informações de Contato</h4>
                 <ul class="fh5co-footer-links">
                     <li>R. Couto Magalhães 2073, <br> Centro Franca - São Paulo</li>
@@ -29,7 +25,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-3 col-md-push-1">
+            <div class="col-md-4 col-md-push-1">
                 <h4>Horário de Atendimento</h4>
                 <ul class="fh5co-footer-links">
                     <li>Segunda-feira - Sexta-feira: 9:00 - 18:00</li>
