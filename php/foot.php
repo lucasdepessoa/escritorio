@@ -47,10 +47,11 @@
                 </p>
                 <p>
                     <ul class="fh5co-social-icons">
-                        <li><a href="#"><i class="icon-twitter"></i></a></li>
-                        <li><a href="#"><i class="icon-facebook"></i></a></li>
-                        <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                        <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                        <li><a href="https://www.facebook.com/alineoliveiraadvocacia/" target="_BLANK"><i class="icon-facebook"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/alineoliveiraadvocacia/" target="_BLANK"><i class="icon-linkedin"></i></a></li>
+                        <li><a href="https://www.instagram.com/alineoliveiraadvocacia/" target="_BLANK"><i class="icon-instagram"></i></a></li>
+                        <li><a href="https://youtube.com/channel/UCpvD5JL1bOiC8sWQW8ozc7g" target="_BLANK"><i class="icon-youtube"></i></a></li>
+
                     </ul>
                 </p>
             </div>

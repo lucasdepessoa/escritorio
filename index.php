@@ -1,207 +1,230 @@
 <!DOCTYPE HTML>
 <html lang="pt-br">
-	<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Aline Oliveira - Advocacia</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Aline Oliveira Advocacia" />
-	<meta name="keywords" content="Aline Oliveira, Advogados, Franca - SP, Aline Oliveira Advocacia, Advogadas Franca, Advocacia Franca São Paulo" />
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Aline Oliveira - Advocacia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aline Oliveira Advocacia" />
+  <meta name="keywords"
+    content="Aline Oliveira, Advogados, Franca - SP, Aline Oliveira Advocacia, Advogadas Franca, Advocacia Franca São Paulo" />
 
 
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-	
-	<script src="https://kit.fontawesome.com/7cf40ba4e0.js" crossorigin="anonymous"></script>
-	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
-	
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
-	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+  <!-- Facebook and Twitter integration -->
+  <meta property="og:title" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:description" content="" />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="twitter:url" content="" />
+  <meta name="twitter:card" content="" />
 
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+  <script src="https://kit.fontawesome.com/7cf40ba4e0.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
 
-	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<!-- Flexslider  -->
-	<link rel="stylesheet" href="css/flexslider.css">
+  <!-- Animate.css -->
+  <link rel="stylesheet" href="css/animate.css">
+  <!-- Icomoon Icon Fonts-->
+  <link rel="stylesheet" href="css/icomoon.css">
+  <!-- Bootstrap  -->
+  <link rel="stylesheet" href="css/bootstrap.css">
 
-	<!-- Theme style  -->
-	<link rel="stylesheet" href="css/style.css">
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" href="css/magnific-popup.css">
 
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
+  <!-- Owl Carousel  -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <!-- Flexslider  -->
+  <link rel="stylesheet" href="css/flexslider.css">
+
+  <!-- Theme style  -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Modernizr JS -->
+  <script src="js/modernizr-2.6.2.min.js"></script>
+  <!-- FOR IE9 below -->
+  <!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	</head>
-	<body>
-	<div class="menuSocio">
-		<ul class="menuSocial">
-			<li><span class="icon"><a href="https://www.facebook.com/alineoliveiraadvocacia/" target="_BLANK"><i class="fa fa-facebook"></i></a></span></li>
-			<li><span class="icon"><a href="https://www.instagram.com/alineoliveiraadvocacia/" target="_BLANK"><i class="fa fa-instagram"></i></a></span></li>
-			<li><span class="icon"><a href="https://youtube.com/channel/UCpvD5JL1bOiC8sWQW8ozc7g" target="_BLANK"><i class="fa fa-youtube"></i></a></span></li>
-			<li><span class="icon"><a href="https://www.linkedin.com/company/alineoliveiraadvocacia/" target="_BLANK"><i class="fa fa-linkedin"></i></a></span></li>
-		</ul>
-		<ul class="menuSocialDi">
-			<li><span class="icon"><a href="https://www.google.com/maps/place/R.+Couto+Magalh%C3%A3es,+2073+-+Centro,+Franca+-+SP,+14400-020/@-20.5348401,-47.4039101,19z/data=!3m1!4b1!4m5!3m4!1s0x94b0a6313da190ff:0x915a8bbf61ebbd86!8m2!3d-20.5348414!4d-47.4033629" target="_BLANK"><i class="fa fa-map-marker"></i></a> R. Couto Magalhães 2073, Centro Franca-SP</span></li>
-			<li><span class="icon"><a href="mailto:email@alineoliveira.com.br"><i class="fa fa-envelope"></i></a> email@alineoliveira.com.br</span> </li>
-			<li><span class="icon"><a href="tel://+551637217940"><i class="fa fa-phone"></i></a> (16) 3721-7940</span> </li>
-		</ul>
-	</div>
-		
-	<div class="fh5co-loader"></div>
-	
-	<div id="page">
+</head>
 
-	<nav class="fh5co-nav" role="navigation">
-		<div class="top-menu">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-2">
-						
-						<div id="fh5co-logo"><a href="index.php"><img class="brand-logo" src="./images/logo.png"><span></span></a></div>
-					</div>
-					<div class="col-xs-10 text-right menu-1">
-						<ul>
-							<li class="active"><a href="index.php">Home</a></li>
-							<li><a href="practice.php">Especialidades</a></li>
-							<li><a href="won.php">Consultas</a></li>
-							<li><a href="blog.php">Blog</a></li>
-							<li><a href="about.php">Sobre Nós</a></li>
-							<li><a href="contact.php">Calculadora de Aposentadoria</a></li>
-							<!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
+<body>
+  <div class="menuSocio">
+    <ul class="menuSocial">
+      <li><span class="icon"><a href="https://www.facebook.com/alineoliveiraadvocacia/" target="_BLANK"><i
+              class="fa fa-facebook"></i></a></span></li>
+      <li><span class="icon"><a href="https://www.instagram.com/alineoliveiraadvocacia/" target="_BLANK"><i
+              class="fa fa-instagram"></i></a></span></li>
+      <li><span class="icon"><a href="https://youtube.com/channel/UCpvD5JL1bOiC8sWQW8ozc7g" target="_BLANK"><i
+              class="fa fa-youtube"></i></a></span></li>
+      <li><span class="icon"><a href="https://www.linkedin.com/company/alineoliveiraadvocacia/" target="_BLANK"><i
+              class="fa fa-linkedin"></i></a></span></li>
+    </ul>
+    <ul class="menuSocialDi">
+      <li><a
+          href="https://www.google.com/maps/place/R.+Couto+Magalh%C3%A3es,+2073+-+Centro,+Franca+-+SP,+14400-020/@-20.5348401,-47.4039101,19z/data=!3m1!4b1!4m5!3m4!1s0x94b0a6313da190ff:0x915a8bbf61ebbd86!8m2!3d-20.5348414!4d-47.4033629"
+          target="_BLANK"><span class="icon"><i class="fa fa-map-marker"></i> R. Couto Magalhães 2073, Centro
+            Franca-SP</a></span></li>
+      <li><span class="icon"><a href="mailto:email@alineoliveira.com.br"><i class="fa fa-envelope"></i></a>
+          email@alineoliveira.com.br</span> </li>
+      <li><span class="icon"><a href="tel://+551637217940"><i class="fa fa-phone"></i></a> (16) 3721-7940</span> </li>
+    </ul>
+  </div>
+
+  <div class="fh5co-loader"></div>
+
+  <div id="page">
+
+    <nav class="fh5co-nav" role="navigation">
+      <div class="top-menu">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-2">
+
+              <div id="fh5co-logo"><a href="index.php"><img class="brand-logo" src="./images/logo.png"><span></span></a>
+              </div>
+            </div>
+            <div class="col-xs-10 text-right menu-1">
+              <ul>
+                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="practice.php">Especialidades</a></li>
+                <li><a href="won.php">Consultas</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="about.php">Sobre Nós</a></li>
+                <li><a href="contact.php">Calculadora de Aposentadoria</a></li>
+                <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
-						</ul>
-					</div>
-				</div>	
-			</div>
-		</div>
-	</nav>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
 
-	<aside id="fh5co-hero" class="js-fullheight">
-		<div class="flexslider js-fullheight">
-			<ul class="slides">
-		   	<li style="background-image: url(images/a1.png);">
-		   		<div class="overlay-gradient"></div>
-		   		<div class="container">
-		   			<div class="row">
-			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
-			   				<div class="slider-text-inner">
-			   					<h1>Especialistas à sua Disposição</h1>
-									<h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam maxime aliquam accusantium rerum tempora incidunt eveniet repellat at quibusdam, et sapiente excepturi ducimus consequatur quisquam officiis quasi voluptas quas?</h2>
-									<p><a class="btn btn-primary btn-lg" href="./won.php">CONSULTE AQUI</a></p>
-			   				</div>
-			   			</div>
-			   		</div>
-		   		</div>
-		   	</li>
-		   	<li style="background-image: url(images/a2.png);">
-		   		<div class="overlay-gradient"></div>
-		   		<div class="container">
-		   			<div class="row">
-			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
-			   				<div class="slider-text-inner">
-			   					<h1>Lei Trabalhista</h1>
-									<h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero perspiciatis magnam distinctio quaerat delectus esse consectetur dolores id, temporibus similique odit asperiores placeat molestiae unde voluptates dolore mollitia aliquam? Fuga!</h2>
-									<p><a class="btn btn-primary btn-lg btn-learn" href="./blog.php">SAIBA MAIS</a></p>
-			   				</div>
-			   			</div>
-			   		</div>
-		   		</div>
-		   	</li>
-		   	<li style="background-image: url(images/a3.png);">
-		   		<div class="overlay-gradient"></div>
-		   		<div class="container">
-		   			<div class="row">
-			   			<div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
-			   				<div class="slider-text-inner">
-			   					<h1>DEFENDA O SEU DIREITO CONSTITUCIONAL</h1>
-									<!-- <h2>Free html5 templates Made by <a href='#' target="_blank"></a></h2> -->
-									<h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui a molestiae obcaecati tempore iste sunt quis nesciunt necessitatibus? Eveniet, quas. Hic excepturi laboriosam vel commodi repellat perspiciatis optio laudantium ipsam?</h2>
-									<p><a class="btn btn-primary btn-lg btn-learn" href="./won.php">CONSULTE AQUI</a></p>
-			   				</div>
-			   			</div>
-			   		</div>
-		   		</div>
-		   	</li>		   	
-		  	</ul>
-	  	</div>
-	</aside>
+    <aside id="fh5co-hero" class="js-fullheight">
+      <div class="flexslider js-fullheight">
+        <ul class="slides">
+          <li style="background-image: url(images/a1.png);">
+            <div class="overlay-gradient"></div>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+                  <div class="slider-text-inner">
+                    <h1>Especialistas à sua Disposição</h1>
+                    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam maxime aliquam
+                      accusantium rerum tempora incidunt eveniet repellat at quibusdam, et sapiente excepturi ducimus
+                      consequatur quisquam officiis quasi voluptas quas?</h2>
+                    <p><a class="btn btn-primary btn-lg" href="./won.php">CONSULTE AQUI</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li style="background-image: url(images/a2.png);">
+            <div class="overlay-gradient"></div>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+                  <div class="slider-text-inner">
+                    <h1>Lei Trabalhista</h1>
+                    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero perspiciatis magnam distinctio
+                      quaerat delectus esse consectetur dolores id, temporibus similique odit asperiores placeat
+                      molestiae unde voluptates dolore mollitia aliquam? Fuga!</h2>
+                    <p><a class="btn btn-primary btn-lg btn-learn" href="./blog.php">SAIBA MAIS</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li style="background-image: url(images/a3.png);">
+            <div class="overlay-gradient"></div>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center js-fullheight slider-text">
+                  <div class="slider-text-inner">
+                    <h1>DEFENDA O SEU DIREITO CONSTITUCIONAL</h1>
+                    <!-- <h2>Free html5 templates Made by <a href='#' target="_blank"></a></h2> -->
+                    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui a molestiae obcaecati tempore iste
+                      sunt quis nesciunt necessitatibus? Eveniet, quas. Hic excepturi laboriosam vel commodi repellat
+                      perspiciatis optio laudantium ipsam?</h2>
+                    <p><a class="btn btn-primary btn-lg btn-learn" href="./won.php">CONSULTE AQUI</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </aside>
 
-	<div id="fh5co-practice2" class="fh5co-bg-section arrumaPadding2">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>CONSULTA ESPECIALIZADA EM TODO O BRASIL</h2>
-					<h4>Todas as soluções jurídicas em um só lugar</h4>
-					<h4>Atendimento presencial em Franca/SP e a distância (online) em todo o Brasil</h4>
-					<h4>AGENDE A SUA CONSULTA ESPECIALIZADA</h4>
-					<p>
-					
-						<a class="btn btn-primary btn-learn" href="./won.php">
-						ADVOGADOS ESPECIALISTAS À DISPOSIÇÃO <br>FALE AGORA.
-						</a>
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
+    <div id="fh5co-practice2" class="fh5co-bg-section arrumaPadding2">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>CONSULTA ESPECIALIZADA EM TODO O BRASIL</h2>
+            <h4>Todas as soluções jurídicas em um só lugar</h4>
+            <h4>Atendimento presencial em Franca/SP e a distância (online) em todo o Brasil</h4>
+            <h4>AGENDE A SUA CONSULTA ESPECIALIZADA</h4>
+            <p>
 
-	<div id="fh5co-counter" class="fh5co-counters fh5co-bg-section">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3 text-center animate-box">
-					<span class="icon"><i class="icon-user"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="16" data-speed="5000" data-refresh-interval="50">Dias</span>
-					<span class="fh5co-counter-label">ANOS DE EXPERIÊNCIA</span>
-				</div>
-				<div class="col-md-3 text-center animate-box">
-					<span class="icon"><i class="icon-speech-bubble"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">CLIENTES ATENDIDOS</span>
-				</div>
-				<div class="col-md-3 text-center animate-box">
-					<span class="icon"><i class="icon-trophy"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">CLIENTES APOSENTADOS</span>
-				</div>
-				<div class="col-md-3 text-center animate-box">
-					<span class="icon"><i class="icon-users"></i></span>
-					<span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000" data-refresh-interval="50"></span>
-					<span class="fh5co-counter-label">VIDAS TRANSFORMADAS</span>
-				</div>
-				
-			</div>
-		</div>
-	</div>
+              <a class="btn btn-primary btn-learn" href="./won.php">
+                ADVOGADOS ESPECIALISTAS À DISPOSIÇÃO <br>FALE AGORA.
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-	<div id="fh5co-content">
-		<div class="video fh5co-video" style="background-image: url(images/video.jpg);">
-			<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
-			<div class="overlay"></div>
-		</div>
-		<div class="choose animate-box">
-			<div class="fh5co-heading">
-				<h2>Porque nos escolher?</h2>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo esse ullam omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit quod.</p>
-			</div>
-			<!-- <div class="progress">
+    <div id="fh5co-counter" class="fh5co-counters fh5co-bg-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 text-center animate-box">
+            <span class="icon"><i class="icon-user"></i></span>
+            <span class="fh5co-counter js-counter" data-from="0" data-to="16" data-speed="5000"
+              data-refresh-interval="50">Dias</span>
+            <span class="fh5co-counter-label">ANOS DE EXPERIÊNCIA</span>
+          </div>
+          <div class="col-md-3 text-center animate-box">
+            <span class="icon"><i class="icon-speech-bubble"></i></span>
+            <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
+              data-refresh-interval="50"></span>
+            <span class="fh5co-counter-label">CLIENTES ATENDIDOS</span>
+          </div>
+          <div class="col-md-3 text-center animate-box">
+            <span class="icon"><i class="icon-trophy"></i></span>
+            <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
+              data-refresh-interval="50"></span>
+            <span class="fh5co-counter-label">CLIENTES APOSENTADOS</span>
+          </div>
+          <div class="col-md-3 text-center animate-box">
+            <span class="icon"><i class="icon-users"></i></span>
+            <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
+              data-refresh-interval="50"></span>
+            <span class="fh5co-counter-label">VIDAS TRANSFORMADAS</span>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="fh5co-content">
+      <div class="video fh5co-video" style="background-image: url(images/video.jpg);">
+        <a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
+        <div class="overlay"></div>
+      </div>
+      <div class="choose animate-box">
+        <div class="fh5co-heading">
+          <h2>Porque nos escolher?</h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo esse ullam
+            omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit quod.</p>
+        </div>
+        <!-- <div class="progress">
 				<div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
 				Direito Criminal 50%
 				</div>
@@ -221,102 +244,113 @@
 				Direito Empresarial 40%
 				</div>
 			</div> -->
-		</div>
-	</div>
+      </div>
+    </div>
 
-	<div id="fh5co-practice" class="fh5co-bg-section arrumaPadding">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>ESPECIALIDADES</h2>
-					<p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas e seus benefícios
-						previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos especialistas em direito de 
-						família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos todos os direitos do
-						cidadão, em um só lugar.
-					</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="far fa-calendar-check"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Previdenciário</a></h3>
-							<p>Possuímos expertise aprofundada em Direito Previdenciário, tanto no INSS, quanto nos Regimes Próprios de Previdência, atuando
-								há mais de 16 anos no ramo, com milhares de concessões de benefícios e milhares de famílias amparadas, pois acreditamos que cada
-								benefício concedido é uma família protegida.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-balance-scale"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Trabalhista</a></h3>
-							<p>O equilíbrio das relações trabalhistas e a garantia do Direito dos trabalhadores são nosso foco, pois cremos que sustento familiar
-								provém de uma relação de trabalho saudável e equilibrada. Experiência comprovada há mais de 16 anos.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-home"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Família</a></h3>
-							<p>Atuamos no direito da família, na realização de inventários judiciais e extrajudiciais, testamentos, doações, heranças, proteção à paternidade/maternidade 
-								digna, proteção ao idoso, criança e adolescentes, estabelecimento de pensões alimentícias, bem como as execuções dessas, sempre resguardando o essencial a vida e a família.
-							</p>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="far fa-handshake"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Contencioso Cível</a></h3>
-							<p>Lidamos com contratos, seguros, execução de dívidas, consultoria e questões civilistas em geral.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-shopping-bag"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Consumidor</a></h3>
-							<p>Na defesa dos direitos dos consumidores, contra fraudes, indenizações e proteção de todas as garantias.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-car"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Acidentário / Indenizações</a></h3>
-							<p>Em caso de acidentes, tenha a garantia, tranquilidade e segurança de obter as indenizações e pagamentos de todos os direitos devidos.</p>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-12 text-center animate-box">
-					<p><a class="btn btn-primary btn-lg btn-learn" href="./practice.php">Veja Mais</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-<!-- 	
+    <div id="fh5co-practice" class="fh5co-bg-section arrumaPadding">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>ESPECIALIDADES</h2>
+            <p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas
+              e seus benefícios
+              previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos
+              especialistas em direito de
+              família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos
+              todos os direitos do
+              cidadão, em um só lugar.
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="far fa-calendar-check"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Previdenciário</a></h3>
+                <p>Possuímos expertise aprofundada em Direito Previdenciário, tanto no INSS, quanto nos Regimes Próprios
+                  de Previdência, atuando
+                  há mais de 16 anos no ramo, com milhares de concessões de benefícios e milhares de famílias amparadas,
+                  pois acreditamos que cada
+                  benefício concedido é uma família protegida.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-balance-scale"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Trabalhista</a></h3>
+                <p>O equilíbrio das relações trabalhistas e a garantia do Direito dos trabalhadores são nosso foco, pois
+                  cremos que sustento familiar
+                  provém de uma relação de trabalho saudável e equilibrada. Experiência comprovada há mais de 16 anos.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-home"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Família</a></h3>
+                <p>Atuamos no direito da família, na realização de inventários judiciais e extrajudiciais, testamentos,
+                  doações, heranças, proteção à paternidade/maternidade
+                  digna, proteção ao idoso, criança e adolescentes, estabelecimento de pensões alimentícias, bem como as
+                  execuções dessas, sempre resguardando o essencial a vida e a família.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="far fa-handshake"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Contencioso Cível</a></h3>
+                <p>Lidamos com contratos, seguros, execução de dívidas, consultoria e questões civilistas em geral.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-shopping-bag"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Consumidor</a></h3>
+                <p>Na defesa dos direitos dos consumidores, contra fraudes, indenizações e proteção de todas as
+                  garantias.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-car"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Acidentário / Indenizações</a></h3>
+                <p>Em caso de acidentes, tenha a garantia, tranquilidade e segurança de obter as indenizações e
+                  pagamentos de todos os direitos devidos.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-12 text-center animate-box">
+            <p><a class="btn btn-primary btn-lg btn-learn" href="./practice.php">Veja Mais</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 	
 	<div id="fh5co-project">
 		<div class="container">
 			<div class="row animate-box">
@@ -368,285 +402,216 @@
 		</div>
 	</div> -->
 
-	<div id="fh5co-testimonial" class="fh5co-bg-section arPad">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>DEPOIMENTOS</h2>
-					<h3>4.8 DE 5 ESTRELAS NO GOOGLE</h3>
-					<p>Nossa avaliação é de <strong>4.8</strong> de <strong>5</strong> no Google com diversos comentários. Você pode acessar
-					eles de forma pública digitando Aline Oliveira Advocacia Especializada ou <a target="_BLANK" href="https://www.google.com/search?q=aline+oliveira+advocacia+especializada&rlz=1C1GCEU_pt-BRBR869BR869&oq=aline+&aqs=chrome.0.69i59l2j69i57j46i433j69i60j69i61l3.1031j0j7&sourceid=chrome&ie=UTF-8#lrd=0x94b0a6313d669b41:0xaf34c298b029070c,1,,,">clicando aqui</a>.
-					</p>
-				</div>
-			</div>
-			<!-- <div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<div class="row animate-box">
-						<div class="owl-carousel owl-carousel-fullwidth">
-							<div class="item">
-								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/user-1.jpg" alt="user">
-									</figure>
-									<span>Fulano</span>
-									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus ullam dignissimos perspiciatis optio corrupti laudantium, officia, quidem eaque beatae cumque hic nulla quia aperiam eligendi deleniti. Nulla saepe quasi quibusdam!&rdquo;</p>
-									</blockquote>
-								</div>
-							</div>
-							<div class="item">
-								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/user-1.jpg" alt="user">
-									</figure>
-									<span>Fulano</span>
-									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus ullam dignissimos perspiciatis optio corrupti laudantium, officia, quidem eaque beatae cumque hic nulla quia aperiam eligendi deleniti. Nulla saepe quasi quibusdam!&rdquo;</p>
-									</blockquote>
-								</div>
-							</div>
-							<div class="item">
-								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/user-1.jpg" alt="user">
-									</figure>
-									<span>Fulano</span>
-									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus ullam dignissimos perspiciatis optio corrupti laudantium, officia, quidem eaque beatae cumque hic nulla quia aperiam eligendi deleniti. Nulla saepe quasi quibusdam!&rdquo;</p>
-									</blockquote>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div> -->
-		</div>
-	</div>
+    <div id="fh5co-testimonial" class="fh5co-bg-section arPad">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>DEPOIMENTOS</h2>
+            <h3>4.8 DE 5 ESTRELAS NO GOOGLE</h3>
+            <p>Nossa avaliação é de <strong>4.8</strong> de <strong>5</strong> no Google com diversos comentários. Você
+              pode acessar
+              eles de forma pública digitando Aline Oliveira Advocacia Especializada ou <a target="_BLANK"
+                href="https://www.google.com/search?q=aline+oliveira+advocacia+especializada&rlz=1C1GCEU_pt-BRBR869BR869&oq=aline+&aqs=chrome.0.69i59l2j69i57j46i433j69i60j69i61l3.1031j0j7&sourceid=chrome&ie=UTF-8#lrd=0x94b0a6313d669b41:0xaf34c298b029070c,1,,,">clicando
+                aqui</a>.
+            </p>
+          </div>
+        </div>
+       
+      </div>
+    </div>
 
-	<!-- <div id="fh5co-consult">
-		<div class="video fh5co-video" style="background-image: url(images/a8.png);">
-		</div>
-		<div class="choose animate-box">
-			<div class="fh5co-heading">
-				<h2>Entre em contato sem compromisso.</h2>
-			</div>
-			<form action="#">
-				<div class="row form-group">
-					<div class="col-md-6">
-					
-						<input type="text" id="fname" class="form-control" placeholder="Seu Primeiro Nome">
-					</div>
-					<div class="col-md-6">
-					
-						<input type="text" id="lname" class="form-control" placeholder="Seu Sobrenome">
-					</div>
-				</div>
+   
+    <div id="fh5co-blog" class="fh5co-bg-section">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>POSTAGENS RECENTES</h2>
+            <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab
+              aliquam dolor eius.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-4">
+            <div class="fh5co-blog animate-box">
+              <a href="#"><img class="img-responsive" src="images/a4.png" alt=""></a>
+              <div class="blog-text">
+                <span class="posted_on">Data Noticia</span>
+                <h3><a href="#">Direito do Trabalho</a></h3>
+                <p>Ministério da saúde volta atrás e retira Covid-19 da lista de doenças do trabalho. Durou APENAS 1 DIA
+                  a inclusão da Covid-19 dentro da lista de doenças relacionadas ao ...</p>
+                <a href="#" class="btn btn-primary">Leia Mais</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4">
+            <div class="fh5co-blog animate-box">
+              <a href="#"><img class="img-responsive" src="images/a6.jpg" alt=""></a>
+              <div class="blog-text">
+                <span class="posted_on">Data Noticia</span>
+                <!-- <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span> -->
+                <h3><a href="#">Direito do Consumidor</a></h3>
+                <p>Empréstimos e as taxas de juros. O que é preciso saber ? Se você já precisou fazer um empréstimo em
+                  algum momento da vida, deve ter reparado...</p>
+                <a href="#" class="btn btn-primary">Leia Mais</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4">
+            <div class="fh5co-blog animate-box">
+              <a href="#"><img class="img-responsive" src="images/a7.png" alt=""></a>
+              <div class="blog-text">
+                <span class="posted_on">Data Noticia</span>
+                <!-- <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span> -->
+                <h3><a href="#">Direito do Trabalho</a></h3>
+                <p>O que as empresas não querem que você saiba ? O maior erro do trabalhador é não ir atrás de seus
+                  direitos! Sabe porque? Quando você empregado...</p>
+                <a href="#" class="btn btn-primary">Leia Mais</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-				<div class="row form-group">
-					<div class="col-md-12">
-					
-						<input type="text" id="email" class="form-control" placeholder="Seu E-mail">
-					</div>
-				</div>
+    <div id="fh5co-about">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>NOSSOS ESPECIALISTAS</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, mollitia quae ut illo, a quasi
+              exercitationem vitae fugiat aliquid ipsam quos quam voluptatem qui molestiae est officia! Rerum, placeat
+              suscipit!</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
+            <div class="fh5co-staff">
+              <img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+              <h3>Fulano</h3>
+              <strong class="role">Advogado</strong>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eius facere, esse voluptas provident
+                eos consectetur minima, quasi distinctio autem voluptatibus architecto placeat aspernatur magnam.
+                Sapiente beatae nisi culpa. Dignissimos!</p>
+              <ul class="fh5co-social-icons">
+                <li><a href="#"><i class="icon-facebook"></i></a></li>
+                <li><a href="#"><i class="icon-twitter"></i></a></li>
+                <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                <li><a href="#"><i class="icon-github"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
+            <div class="fh5co-staff">
+              <img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+              <h3>Fulano</h3>
+              <strong class="role">Advogado</strong>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eius facere, esse voluptas provident
+                eos consectetur minima, quasi distinctio autem voluptatibus architecto placeat aspernatur magnam.
+                Sapiente beatae nisi culpa. Dignissimos!</p>
+              <ul class="fh5co-social-icons">
+                <li><a href="#"><i class="icon-facebook"></i></a></li>
+                <li><a href="#"><i class="icon-twitter"></i></a></li>
+                <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                <li><a href="#"><i class="icon-github"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
+            <div class="fh5co-staff">
+              <img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
+              <h3>Fulano</h3>
+              <strong class="role">Advogado</strong>
+              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eius facere, esse voluptas provident
+                eos consectetur minima, quasi distinctio autem voluptatibus architecto placeat aspernatur magnam.
+                Sapiente beatae nisi culpa. Dignissimos!</p>
+              <ul class="fh5co-social-icons">
+                <li><a href="#"><i class="icon-facebook"></i></a></li>
+                <li><a href="#"><i class="icon-twitter"></i></a></li>
+                <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                <li><a href="#"><i class="icon-github"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-				<div class="row form-group">
-					<div class="col-md-12">
-						
-						<input type="text" id="subject" class="form-control" placeholder="O assunto da sua mensagem">
-					</div>
-				</div>
+    <div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>Precisa de Ajuda ?</h2>
+            <p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
+          </div>
+        </div>
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center">
+            <p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-				<div class="row form-group">
-					<div class="col-md-12">
-					
-						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Digite aqui a sua Mensagem"></textarea>
-					</div>
-				</div>
-				<div class="form-group">
-					<input type="submit" value="Enviar" class="btn btn-primary">
-				</div>
-
-			</form>	
-		</div>
-	</div> -->
-
-	<div id="fh5co-blog" class="fh5co-bg-section">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>POSTAGENS RECENTES</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-md-4">
-					<div class="fh5co-blog animate-box">
-						<a href="#"><img class="img-responsive" src="images/a4.png" alt=""></a>
-						<div class="blog-text">
-							<span class="posted_on">Data Noticia</span>
-							<h3><a href="#">Direito do Trabalho</a></h3>
-							<p>Ministério da saúde volta atrás e retira Covid-19 da lista de doenças do trabalho. Durou APENAS 1 DIA a inclusão da Covid-19 dentro da lista de doenças relacionadas ao ...</p>
-							<a href="#" class="btn btn-primary">Leia Mais</a>
-						</div> 
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="fh5co-blog animate-box">
-						<a href="#"><img class="img-responsive" src="images/a6.jpg" alt=""></a>
-						<div class="blog-text">
-							<span class="posted_on">Data Noticia</span>
-							<!-- <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span> -->
-							<h3><a href="#">Direito do Consumidor</a></h3>
-							<p>Empréstimos e as taxas de juros. O que é preciso saber ? Se você já precisou fazer um empréstimo em algum momento da vida, deve ter reparado...</p>
-							<a href="#" class="btn btn-primary">Leia Mais</a>
-						</div> 
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-4">
-					<div class="fh5co-blog animate-box">
-						<a href="#"><img class="img-responsive" src="images/a7.png" alt=""></a>
-						<div class="blog-text">
-							<span class="posted_on">Data Noticia</span>
-							<!-- <span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span> -->
-							<h3><a href="#">Direito do Trabalho</a></h3>
-							<p>O que as empresas não querem que você saiba ? O maior erro do trabalhador é não ir atrás de seus direitos! Sabe porque? Quando você empregado...</p>
-							<a href="#" class="btn btn-primary">Leia Mais</a>
-						</div> 
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div id="fh5co-about">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>NOSSOS ESPECIALISTAS</h2>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, mollitia quae ut illo, a quasi exercitationem vitae fugiat aliquid ipsam quos quam voluptatem qui molestiae est officia! Rerum, placeat suscipit!</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
-					<div class="fh5co-staff">
-						<img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
-						<h3>Fulano</h3>
-						<strong class="role">Advogado</strong>
-						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eius facere, esse voluptas provident eos consectetur minima, quasi distinctio autem voluptatibus architecto placeat aspernatur magnam. Sapiente beatae nisi culpa. Dignissimos!</p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-github"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
-					<div class="fh5co-staff">
-						<img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
-						<h3>Fulano</h3>
-						<strong class="role">Advogado</strong>
-						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eius facere, esse voluptas provident eos consectetur minima, quasi distinctio autem voluptatibus architecto placeat aspernatur magnam. Sapiente beatae nisi culpa. Dignissimos!</p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-github"></i></a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-4 text-center animate-box" data-animate-effect="fadeIn">
-					<div class="fh5co-staff">
-						<img src="images/user-2.jpg" alt="Free HTML5 Templates by gettemplates.co">
-						<h3>Fulano</h3>
-						<strong class="role">Advogado</strong>
-						<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet eius facere, esse voluptas provident eos consectetur minima, quasi distinctio autem voluptatibus architecto placeat aspernatur magnam. Sapiente beatae nisi culpa. Dignissimos!</p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-github"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Precisa de Ajuda ?</h2>
-					<p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<?php
+    <?php
 		require('./php/foot.php');
 	?>
 
-	</div>
+  </div>
 
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
-	
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Stellar Parallax -->
-	<script src="js/jquery.stellar.min.js"></script>
-	<!-- Carousel -->
-	<script src="js/owl.carousel.min.js"></script>
-	<!-- Flexslider -->
-	<script src="js/jquery.flexslider-min.js"></script>
-	<!-- countTo -->
-	<script src="js/jquery.countTo.js"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
-	<!-- Main -->
-	<script src="js/main.js"></script>
+  <div class="gototop js-top">
+    <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+  </div>
 
-	<!-- Whatsapp Plugin -->
-	<script class="tt" type="text/javascript">
-		(function(){
-			var options = {
-				whatsapp: "+55(16)993517878",
-				call_to_action: "Fale Conosco Agora",
-				position:"left"
-			}
-			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
-			var s = document.createElement('script')
-			s.type = 'text/javascript'
-			s.async = true
-			s.src = `${url}/widget-send-button/js/init.js`
-			s.onload = function(){
-				WhWidgetSendButton.init(host,proto,options)
-			}
-			var x = document.querySelector(".tt")
-			x.parentNode.insertBefore(s,x)
-		})()
+  <!-- jQuery -->
+  <script src="js/jquery.min.js"></script>
+  <!-- jQuery Easing -->
+  <script src="js/jquery.easing.1.3.js"></script>
+  <!-- Bootstrap -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- Waypoints -->
+  <script src="js/jquery.waypoints.min.js"></script>
+  <!-- Stellar Parallax -->
+  <script src="js/jquery.stellar.min.js"></script>
+  <!-- Carousel -->
+  <script src="js/owl.carousel.min.js"></script>
+  <!-- Flexslider -->
+  <script src="js/jquery.flexslider-min.js"></script>
+  <!-- countTo -->
+  <script src="js/jquery.countTo.js"></script>
+  <!-- Magnific Popup -->
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/magnific-popup-options.js"></script>
+  <!-- Main -->
+  <script src="js/main.js"></script>
 
-		setTimeout(() => {
-			document.querySelector('.sc-7dvmpp-1').remove()
-		},4000);
-	</script>
-	
-	</body>
+  <!-- Whatsapp Plugin -->
+  <script class="tt" type="text/javascript">
+  (function() {
+    var options = {
+      whatsapp: "+55(16)993517878",
+      call_to_action: "Fale Conosco Agora",
+      position: "left"
+    }
+    var proto = document.location.protocol,
+      host = "whatshelp.io",
+      url = `${proto}//static.${host}`
+    var s = document.createElement('script')
+    s.type = 'text/javascript'
+    s.async = true
+    s.src = `${url}/widget-send-button/js/init.js`
+    s.onload = function() {
+      WhWidgetSendButton.init(host, proto, options)
+    }
+    var x = document.querySelector(".tt")
+    x.parentNode.insertBefore(s, x)
+  })()
+
+  setTimeout(() => {
+    document.querySelector('.sc-7dvmpp-1').remove()
+  }, 4000);
+  </script>
+
+</body>
+
 </html>
-

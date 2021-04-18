@@ -1,353 +1,438 @@
 <!DOCTYPE HTML>
 <html lang="pt-br">
-	<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Aline Oliveira - Advocacia</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Aline Oliveira Advocacia" />
-	<meta name="keywords" content="Aline Oliveira, Advogados, Franca - SP, Aline Oliveira Advocacia, Advogadas Franca, Advocacia Franca São Paulo" />
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Aline Oliveira - Advocacia</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aline Oliveira Advocacia" />
+  <meta name="keywords"
+    content="Aline Oliveira, Advogados, Franca - SP, Aline Oliveira Advocacia, Advogadas Franca, Advocacia Franca São Paulo" />
 
 
 
-  	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
-	
-	<script src="https://kit.fontawesome.com/7cf40ba4e0.js" crossorigin="anonymous"></script>
-	<link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
-	
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
-	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+  <!-- Facebook and Twitter integration -->
+  <meta property="og:title" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:description" content="" />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="twitter:url" content="" />
+  <meta name="twitter:card" content="" />
 
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
+  <script src="https://kit.fontawesome.com/7cf40ba4e0.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
 
-	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<!-- Flexslider  -->
-	<link rel="stylesheet" href="css/flexslider.css">
+  <!-- Animate.css -->
+  <link rel="stylesheet" href="css/animate.css">
+  <!-- Icomoon Icon Fonts-->
+  <link rel="stylesheet" href="css/icomoon.css">
+  <!-- Bootstrap  -->
+  <link rel="stylesheet" href="css/bootstrap.css">
 
-	<!-- Theme style  -->
-	<link rel="stylesheet" href="css/style.css">
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" href="css/magnific-popup.css">
 
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
+  <!-- Owl Carousel  -->
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <!-- Flexslider  -->
+  <link rel="stylesheet" href="css/flexslider.css">
+
+  <!-- Theme style  -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Modernizr JS -->
+  <script src="js/modernizr-2.6.2.min.js"></script>
+  <!-- FOR IE9 below -->
+  <!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	</head>
-	<body>
-		
-	<div class="fh5co-loader"></div>
-	
-	<div id="page">
-	<nav class="fh5co-nav" role="navigation">
-		<div class="top-menu">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-2">
-						<div id="fh5co-logo"><a href="index.php"><img class="brand-logo" src="./images/logo.png"><span></span></a></div>
-					</div>
-					<div class="col-xs-10 text-right menu-1">
-						<ul>
-							<li><a href="index.php">Home</a></li>
-							<li class="active"><a href="practice.php">Especialidades</a></li>
-							<li><a href="won.php">Consultas</a></li>
-							<li><a href="blog.php">Blog</a></li>
-							<li><a href="about.php">Sobre Nós</a></li>
-							<li><a href="contact.php">Calculadora de Aposentadoria</a></li>
-							<!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
+</head>
+
+<body>
+
+  <div class="fh5co-loader"></div>
+
+  <div id="page">
+    <nav class="fh5co-nav" role="navigation">
+      <div class="top-menu">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-2">
+              <div id="fh5co-logo"><a href="index.php"><img class="brand-logo" src="./images/logo.png"><span></span></a>
+              </div>
+            </div>
+            <div class="col-xs-10 text-right menu-1">
+              <ul>
+                <li><a href="index.php">Home</a></li>
+                <li class="active"><a href="practice.php">Especialidades</a></li>
+                <li><a href="won.php">Consultas</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="about.php">Sobre Nós</a></li>
+                <li><a href="contact.php">Calculadora de Aposentadoria</a></li>
+                <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
-						</ul>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-	</nav>
+              </ul>
+            </div>
+          </div>
 
-	<aside id="fh5co-hero" class="js-fullheight">
-		<div class="flexslider js-fullheight">
-			<ul class="slides">
-		   	<li style="background-image: url(images/img_bg_1.jpg);">
-		   		<div class="overlay-gradient"></div>
-		   		<div class="container">
-		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
-		   				<div class="slider-text-inner desc">
-		   					<h2 class="heading-section">Especialistas à sua Espera</h2>
-							<p>Profissionais Capacitados e experientes a sua disposição<br> Atendimento presencial em Franca - SP e à Distância em todo o Brasil</p>
-							<p><a class="btn btn-primary btn-lg" href="./won.php">CONSULTE AQUI</a></p>
-						</div>
-		   			</div>
-		   		</div>
-		   	</li>
-		  	</ul>
-	  	</div>
-	</aside>
+        </div>
+      </div>
+    </nav>
 
-	<div id="fh5co-practice" class="fh5co-bg-section">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Nossas Especialidades</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Especialidades</h2>
-					<p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas e seus benefícios
-						previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos especialistas em direito de 
-						família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos todos os direitos do
-						cidadão, em um só lugar.
-					</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="far fa-calendar-check"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Previdenciário</a></h3>
-							<p>Possuímos expertise aprofundada em Direito Previdenciário, tanto no INSS, quanto nos Regimes Próprios de Previdência, atuando
-								há mais de 16 anos no ramo, com milhares de concessões de benefícios e milhares de famílias amparadas, pois acreditamos que cada
-								benefício concedido é uma família protegida.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-balance-scale"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Trabalhista</a></h3>
-							<p>O equilíbrio das relações trabalhistas e a garantia do Direito dos trabalhadores são nosso foco, pois cremos que sustento familiar
-								provém de uma relação de trabalho saudável e equilibrada. Experiência comprovada há mais de 16 anos.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-home"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Família</a></h3>
-							<p>Atuamos no direito da família, na realização de inventários judiciais e extrajudiciais, testamentos, doações, heranças, proteção à paternidade/maternidade 
-								digna, proteção ao idoso, criança e adolescentes, estabelecimento de pensões alimentícias, bem como as execuções dessas, sempre resguardando o essencial a vida e a família.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="far fa-building"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Empresarial</a></h3>
-							<p>Um jurídico estratégico e integrado com o crescimento e proteção do seu negócio e de seu patrimônio, através de 
-								constituição de holdings, realização de compliance, implantação de medidas impostas pela LGPD, análises e formalizações
-								de contratos.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="far fa-handshake"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Contencioso Cível</a></h3>
-							<p>Lidamos com contratos, seguros, execução de dívidas, consultoria e questões civilistas em geral.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-shopping-bag"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Consumidor</a></h3>
-							<p>Na defesa dos direitos dos consumidores, contra fraudes, indenizações e proteção de todas as garantias.</p>
-						</div>
-					</div>
-				</div>
-			
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-car"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Acidentário / Indenizações</a></h3>
-							<p>Em caso de acidentes, tenha a garantia, tranquilidade e segurança de obter as indenizações e pagamentos de todos os direitos devidos.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 text-center animate-box">
-					<div class="services">
-						<span class="icon">
-							<i class="fas fa-hourglass-half"></i>
-						</span>
-						<div class="desc">
-							<h3><a href="#">Criminal</a></h3>
-							<p>Agir de forma rápida e inteligente faz sempre a diferença no âmbito criminal.</p>
-						</div>
-					</div>
-				</div>
-				<!-- <div class="col-md-12 text-center animate-box">
+    <aside id="fh5co-hero" class="js-fullheight">
+      <div class="flexslider js-fullheight">
+        <ul class="slides">
+          <li style="background-image: url(images/img_bg_1.jpg);">
+            <div class="overlay-gradient"></div>
+            <div class="container">
+              <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
+                <div class="slider-text-inner desc">
+                  <h2 class="heading-section">Especialistas à sua Espera</h2>
+                  <p>Profissionais Capacitados e experientes a sua disposição<br> Atendimento presencial em Franca - SP
+                    e à Distância em todo o Brasil</p>
+                  <p><a class="btn btn-primary btn-lg" href="./won.php">CONSULTE AQUI</a></p>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </aside>
+
+    <div id="fh5co-practice" class="fh5co-bg-section">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>NOSSAS ESPECIALIDADES</h2>
+            <p>Somos uma equipe de advogados especialistas que ajudam trabalhadores a obterem seus direitos trabalhistas
+              e seus benefícios
+              previdenciários perante o INSS e o Regimte Próprio de Previdência Social. Além disso, possuímos
+              especialistas em direito de
+              família, processo civil em geral, direito do consumidor e demandas acidentárias para que sejam protegidos
+              todos os direitos do
+              cidadão, em um só lugar.
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="far fa-calendar-check"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Previdenciário</a></h3>
+                <p>Possuímos expertise aprofundada em Direito Previdenciário, tanto no INSS, quanto nos Regimes Próprios
+                  de Previdência, atuando
+                  há mais de 16 anos no ramo, com milhares de concessões de benefícios e milhares de famílias amparadas,
+                  pois acreditamos que cada
+                  benefício concedido é uma família protegida.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-balance-scale"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Trabalhista</a></h3>
+                <p>O equilíbrio das relações trabalhistas e a garantia do Direito dos trabalhadores são nosso foco, pois
+                  cremos que sustento familiar
+                  provém de uma relação de trabalho saudável e equilibrada. Experiência comprovada há mais de 16 anos.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-home"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Família</a></h3>
+                <p>Atuamos no direito da família, na realização de inventários judiciais e extrajudiciais, testamentos,
+                  doações, heranças, proteção à paternidade/maternidade
+                  digna, proteção ao idoso, criança e adolescentes, estabelecimento de pensões alimentícias, bem como as
+                  execuções dessas, sempre resguardando o essencial a vida e a família.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="far fa-building"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Empresarial</a></h3>
+                <p>Um jurídico estratégico e integrado com o crescimento e proteção do seu negócio e de seu patrimônio,
+                  através de
+                  constituição de holdings, realização de compliance, implantação de medidas impostas pela LGPD,
+                  análises e formalizações
+                  de contratos.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="far fa-handshake"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Contencioso Cível</a></h3>
+                <p>Lidamos com contratos, seguros, execução de dívidas, consultoria e questões civilistas em geral.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-shopping-bag"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Consumidor</a></h3>
+                <p>Na defesa dos direitos dos consumidores, contra fraudes, indenizações e proteção de todas as
+                  garantias.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-car"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Acidentário / Indenizações</a></h3>
+                <p>Em caso de acidentes, tenha a garantia, tranquilidade e segurança de obter as indenizações e
+                  pagamentos de todos os direitos devidos.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fas fa-hourglass-half"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Criminal</a></h3>
+                <p>Agir de forma rápida e inteligente faz sempre a diferença no âmbito criminal.</p>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="col-md-12 text-center animate-box">
 					<p><a class="btn btn-primary btn-lg btn-learn" href="#">View More</a></p>
 				</div> -->
-			</div>
-		</div>
-	</div>
+        </div>
+      </div>
+    </div>
 
-	<div id="fh5co-testimonial" class="fh5co-bg-section">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Testemunhos</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<div class="row animate-box">
-						<div class="owl-carousel owl-carousel-fullwidth">
-							<div class="item">
-								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/user-1.jpg" alt="user">
-									</figure>
-									<span>Fulano</span>
-									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus ullam dignissimos perspiciatis optio corrupti laudantium, officia, quidem eaque beatae cumque hic nulla quia aperiam eligendi deleniti. Nulla saepe quasi quibusdam!&rdquo;</p>
-									</blockquote>
-								</div>
-							</div>
-							<div class="item">
-								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/user-1.jpg" alt="user">
-									</figure>
-									<span>Fulano</span>
-									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus ullam dignissimos perspiciatis optio corrupti laudantium, officia, quidem eaque beatae cumque hic nulla quia aperiam eligendi deleniti. Nulla saepe quasi quibusdam!&rdquo;</p>
-									</blockquote>
-								</div>
-							</div>
-							<div class="item">
-								<div class="testimony-slide active text-center">
-									<figure>
-										<img src="images/user-1.jpg" alt="user">
-									</figure>
-									<span>Fulano</span>
-									<blockquote>
-										<p>&ldquo;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus ullam dignissimos perspiciatis optio corrupti laudantium, officia, quidem eaque beatae cumque hic nulla quia aperiam eligendi deleniti. Nulla saepe quasi quibusdam!&rdquo;</p>
-									</blockquote>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+    <div id="fh5co-practice2" class="fh5co-bg-section arPad">
+      <div class="container">
+        <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+          <h2>NOSSOS SERVIÇOS</h2>
+        </div>
+        <div class="row">
+          <div class="col-md-3 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="far fa-handshake"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Consulta Previdenciária</a></h3>
+                <p>Serviço voltado para você que <strong>precisa conhecer o seu caso</strong> ou descobrir uma solução
+                  especializada para seu problema. Realizamos esse atendimento em todo Brasil e exterior.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fa fa-bar-chart"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Planejamento Previdenciário</a></h3>
+                <p>Organizamos e preparamos <strong>sua pré-aposentadoria</strong>, com objetivo de auxiliar na sua
+                  busca por uma aposentadoria <strong>rápida</strong> e com o melhor benefício possível.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fa fa-lock"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Mandado de Segurança</a></h3>
+                <p>Produzimos o <strong>mandado de segurança</strong> para fazer com que o INSS analise e responda
+                  rapidamente o seu pedido de benefício, <strong>diminuindo</strong> seu tempo de espera.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fa fa-book"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Peças Administrativas</a></h3>
+                <p>Analisamos o seu caso e realizamos uma <strong>peça administrativa exclusiva</strong> para você, ela
+                  é um documento guia para o INSS no momento da <strong>análise do seu pedido</strong>.</p>
+              </div>
+            </div>
+          </div>
+        </div><!-- fim row -->
 
-	<div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Precisa de Ajuda ?</h2>
-					<p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
+        <div class="row">
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fa fa-balance-scale"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Análises de Revisões</a></h3>
+                <p>Analisamos o seu caso, <strong>cálculos</strong> e o processo do benefício concedido no INSS, para
+                  então conseguirmos identificar <strong>o que precisa ser revisado</strong> e quanto o seu benefício
+                  pode aumentar.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fa fa-calculator"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Revisão da Vida Toda - A revisão dos seus direitos</a></h3>
+                <p>Análise <strong>completa</strong> em benefícios que sofreram mudanças de moedas antes do plano real.
+                  Este serviço descobre se a <strong>Revisão da Vida Toda</strong> é vantajosa para você.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 text-center animate-box">
+            <div class="services">
+              <span class="icon">
+                <i class="fa fa-gavel"></i>
+              </span>
+              <div class="desc">
+                <h3><a href="#">Processo Judicial</a></h3>
+                <p>Realizamos <strong>todo seu processo</strong>, desde cálculos, processo administrativo, judicial, até
+                  o imposto de renda. Este é um serviço para você que <strong>não quer se incomodar com nada</strong>.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div><!-- fim row -->
+        <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
+          <a class="botaoMais" href="./won.php">
+            <h3>PROCURANDO MAIS ?</h3>
+          </a>
+        </div>
+      </div>
+      <!--fim containter -->
+    </div>
 
-	
-	<?php
+    <div id="fh5co-testimonial" class="fh5co-bg-section arPad">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>DEPOIMENTOS</h2>
+            <h3>4.8 DE 5 ESTRELAS NO GOOGLE</h3>
+            <p>Nossa avaliação é de <strong>4.8</strong> de <strong>5</strong> no Google com diversos comentários. Você
+              pode acessar
+              eles de forma pública digitando Aline Oliveira Advocacia Especializada ou <a target="_BLANK"
+                href="https://www.google.com/search?q=aline+oliveira+advocacia+especializada&rlz=1C1GCEU_pt-BRBR869BR869&oq=aline+&aqs=chrome.0.69i59l2j69i57j46i433j69i60j69i61l3.1031j0j7&sourceid=chrome&ie=UTF-8#lrd=0x94b0a6313d669b41:0xaf34c298b029070c,1,,,">clicando
+                aqui</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>Precisa de Ajuda ?</h2>
+            <p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
+          </div>
+        </div>
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center">
+            <p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <?php
 		require('./php/foot.php');
 	?>
-	
-	</div>
 
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
-	
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Stellar Parallax -->
-	<script src="js/jquery.stellar.min.js"></script>
-	<!-- Carousel -->
-	<script src="js/owl.carousel.min.js"></script>
-	<!-- Flexslider -->
-	<script src="js/jquery.flexslider-min.js"></script>
-	<!-- countTo -->
-	<script src="js/jquery.countTo.js"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
-	<!-- Main -->
-	<script src="js/main.js"></script>
+  </div>
 
-	<!-- Whatsapp Plugin -->
-	<script class="tt" type="text/javascript">
-		(function(){
-			var options = {
-				whatsapp: "+55(16)993517878",
-				call_to_action: "Fale Conosco Agora",
-				position:"left"
-			}
-			var proto = document.location.protocol, host = "whatshelp.io", url = `${proto}//static.${host}`
-			var s = document.createElement('script')
-			s.type = 'text/javascript'
-			s.async = true
-			s.src = `${url}/widget-send-button/js/init.js`
-			s.onload = function(){
-				WhWidgetSendButton.init(host,proto,options)
-			}
-			var x = document.querySelector(".tt")
-			x.parentNode.insertBefore(s,x)
-		})()
+  <div class="gototop js-top">
+    <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+  </div>
 
-		setTimeout(() => {
-			document.querySelector('.sc-7dvmpp-1').remove()
-		},4000);
-	</script>
-	
-	</body>
+  <!-- jQuery -->
+  <script src="js/jquery.min.js"></script>
+  <!-- jQuery Easing -->
+  <script src="js/jquery.easing.1.3.js"></script>
+  <!-- Bootstrap -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- Waypoints -->
+  <script src="js/jquery.waypoints.min.js"></script>
+  <!-- Stellar Parallax -->
+  <script src="js/jquery.stellar.min.js"></script>
+  <!-- Carousel -->
+  <script src="js/owl.carousel.min.js"></script>
+  <!-- Flexslider -->
+  <script src="js/jquery.flexslider-min.js"></script>
+  <!-- countTo -->
+  <script src="js/jquery.countTo.js"></script>
+  <!-- Magnific Popup -->
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/magnific-popup-options.js"></script>
+  <!-- Main -->
+  <script src="js/main.js"></script>
+
+  <!-- Whatsapp Plugin -->
+  <script class="tt" type="text/javascript">
+  (function() {
+    var options = {
+      whatsapp: "+55(16)993517878",
+      call_to_action: "Fale Conosco Agora",
+      position: "left"
+    }
+    var proto = document.location.protocol,
+      host = "whatshelp.io",
+      url = `${proto}//static.${host}`
+    var s = document.createElement('script')
+    s.type = 'text/javascript'
+    s.async = true
+    s.src = `${url}/widget-send-button/js/init.js`
+    s.onload = function() {
+      WhWidgetSendButton.init(host, proto, options)
+    }
+    var x = document.querySelector(".tt")
+    x.parentNode.insertBefore(s, x)
+  })()
+
+  setTimeout(() => {
+    document.querySelector('.sc-7dvmpp-1').remove()
+  }, 4000);
+  </script>
+
+</body>
+
 </html>
-

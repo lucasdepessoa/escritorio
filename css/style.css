@@ -2092,3 +2092,10 @@ form#formCriacao textarea:focus{
   color: #3b2504!important;
 }
 
+#fh5co-practice2 div {
+  box-shadow:none!important;
+}
+
+.botaoMais h3 {
+  color: #c7954b;
+}
