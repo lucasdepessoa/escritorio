@@ -166,25 +166,25 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3 text-center animate-box">
-            <span class="icon"><i class="icon-user"></i></span>
+            <span class="icon"><i class="icon-trophy"></i></span>
             <span class="fh5co-counter js-counter" data-from="0" data-to="16" data-speed="5000"
               data-refresh-interval="50">Dias</span>
             <span class="fh5co-counter-label">ANOS DE EXPERIÊNCIA</span>
           </div>
           <div class="col-md-3 text-center animate-box">
-            <span class="icon"><i class="icon-speech-bubble"></i></span>
+            <span class="icon"><i class="icon-users"></i></span>
             <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
               data-refresh-interval="50"></span>
             <span class="fh5co-counter-label">CLIENTES ATENDIDOS</span>
           </div>
           <div class="col-md-3 text-center animate-box">
-            <span class="icon"><i class="icon-trophy"></i></span>
+            <span class="icon"><i class="fas fa-award"></i></span>
             <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
               data-refresh-interval="50"></span>
             <span class="fh5co-counter-label">CLIENTES APOSENTADOS</span>
           </div>
           <div class="col-md-3 text-center animate-box">
-            <span class="icon"><i class="icon-users"></i></span>
+            <span class="icon"><i class="far fa-smile-beam"></i></span>
             <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
               data-refresh-interval="50"></span>
             <span class="fh5co-counter-label">VIDAS TRANSFORMADAS</span>
