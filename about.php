@@ -123,14 +123,63 @@
           <div class="main-timeline">
             <div class="timeline">
               <a class="timeline-content">
-                <div class="timeline-year">2015</div>
-                <div class="timeline-icon"><i class="fa fa-globe"></i></div>
+                <div class="timeline-year">2000</div>
+                <div class="timeline-icon"><i class="fa fa-lightbulb-o"></i></div>
                 <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
+                  <h3 class="title">Início de um Sonho</h3>
                   <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
+                    Este sonho e história nasceu no coração de Dra. Aline de Oliveira Pinto e Aguilar vinda de uma
+                    família humilde,
+                    descendente de lavradores e de pouco estudo.
+                    Aline, inconformada com sua situação financeira e motivada pelo seu tio Dr. Samuel da Rocha
+                    Oliveira, promotor de
+                    justiça (in memoria), que também era descendente de lavradores, mas que através dos estudos havia
+                    conquistado uma profissão e mudado sua vida e de sua família, decidiu também estudar e mudar sua
+                    história.
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="timeline">
+              <a class="timeline-content">
+                <div class="timeline-year">2003</div>
+                <div class="timeline-icon"><i class="fas fa-trophy"></i></div>
+                <div class="inner-content">
+                  <h3 class="title">A primeira Conquista</h3>
+                  <p class="description">
+                    Em 2003, mesmo após muitas lutas financeiras, trabalhando em tempo integral e estudando de
+                    madrugada, Dra. Aline concluiu sua graduação em Direito e sonhava ser juíza. Ocorre que para prestar
+                    concurso público é requisito o exercício mínimo de 3 anos de advocacia.
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="timeline">
+              <a class="timeline-content">
+                <div class="timeline-year">2004</div>
+                <div class="timeline-icon"><i class="fa fa-business-time"></i></div>
+                <div class="inner-content">
+                  <h3 class="title">A Luta Continua</h3>
+                  <p class="description">
+                    Dra. Aline, com poucos recursos provenientes de seu trabalho, iniciou o exercício da advocacia,
+                    dividindo despesas com outros profissionais, mas advogando sozinha e ali, nasceu uma grande paixão,
+                    pois encontrou a oportunidade de transformar vidas através da advocacia prvidenciária. Aos poucos,
+                    foi conquistando reconhecimento, pelo êxito de seu trabalho em sua cidade local (Franca) e região.
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="timeline">
+              <a class="timeline-content">
+                <div class="timeline-year">2013</div>
+                <div class="timeline-icon"><i class="fa fa-building"></i></div>
+                <div class="inner-content">
+                  <h3 class="title">Uma nova Fase</h3>
+                  <p class="description">
+                    Fundou-se a sede própria na cidade de Franca e Dra. Aline se tornou empreendedora, realizando
+                    contratações de especialistas, expandindo o escritório para demais áreas de atuação, sem perder o
+                    atendimento humanizado que o escritório sempre possuiu, motivo pleo qual tornou-se destaque e
+                    referência além da sua região local.
                   </p>
                 </div>
               </a>
@@ -138,69 +187,12 @@
             <div class="timeline">
               <a class="timeline-content">
                 <div class="timeline-year">2016</div>
-                <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
+                <div class="timeline-icon"><i class="fa fa-project-diagram"></i></div>
                 <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
+                  <h3 class="title">Inovando</h3>
                   <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
-                  </p>
-                </div>
-              </a>
-            </div>
-            <div class="timeline">
-              <a class="timeline-content">
-                <div class="timeline-year">2017</div>
-                <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
-                <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
-                  <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
-                  </p>
-                </div>
-              </a>
-            </div>
-            <div class="timeline">
-              <a class="timeline-content">
-                <div class="timeline-year">2018</div>
-                <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
-                <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
-                  <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
-                  </p>
-                </div>
-              </a>
-            </div>
-            <div class="timeline">
-              <a class="timeline-content">
-                <div class="timeline-year">2019</div>
-                <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
-                <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
-                  <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
-                  </p>
-                </div>
-              </a>
-            </div>
-            <div class="timeline">
-              <a class="timeline-content">
-                <div class="timeline-year">2020</div>
-                <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
-                <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
-                  <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
+                    Iniciou-se uma jornada desafiadora no Marketing Jurídico, postando vídeos informativos em todas as
+                    redes sociais, que ajuda centenas de pessoas todos os anos.
                   </p>
                 </div>
               </a>
@@ -210,11 +202,11 @@
                 <div class="timeline-year">2021</div>
                 <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
                 <div class="inner-content">
-                  <h3 class="title">Titulo</h3>
+                  <h3 class="title">Inovação que deu Certo</h3>
                   <p class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada
-                    tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et
-                    condimentum neque commodo
+                    O desafio inovador é a intensificação de informativos jurídicos e a implantação do atendimento à
+                    distância (online), atuando em diversas áreas do Direito, transformando milhares de vidas e contando
+                    com mais de 14 pessoas contratadas apaixonadas pelo que fazem.
                   </p>
                 </div>
               </a>
@@ -225,41 +217,49 @@
     </div>
 
 
+    <div id="fh5co-about2">
+      <div class="container">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h3>FUNÇÃO SOCIAL</h3>
+            <p><strong>Aline Oliveira Advocacia Especializada</strong> é uma empresa que reconhece seu dever social, que 
+            além de ser geradora de empregos, também se preocupa com meio ambiente e com a comunidade que está inserida, auxiliando 
+            financeiramente, de modo permanente entidades sociais que realizam obras beneficentes às famílias e crianças de baixa renda
+            e em estado de vulnerabilidade.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div id="fh5co-content">
       <div class="video fh5co-video" style="background-image: url(images/video.jpg);">
         <a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
         <div class="overlay"></div>
       </div>
-      <div class="choose animate-box">
-        <div class="fh5co-heading">
+      <div class="choose animate-box ajeitaPad">
+        <div class="fh5co-heading porqueNosEscolher">
           <h2>Porque nos escolher?</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo
-            esse ullam omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit
-            quod.</p>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0"
-            aria-valuemax="100" style="width:50%">
-            Direito Criminal 50%
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0"
-            aria-valuemax="100" style="width:80%">
-            Direito Cível 80%
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0"
-            aria-valuemax="100" style="width:70%">
-            Direito Trabalhista 70%
-          </div>
-        </div>
-        <div class="progress">
-          <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0"
-            aria-valuemax="100" style="width:40%">
-            Direito Empresarial 40%
-          </div>
+          <p><strong>Aline Oliveira Advocacia Especializada</strong> é um diferencial de advocacia atual, pois adotam
+            princípios na administração organizacional, que traz <strong>soluções júridicas de modo ágil e
+              eficaz</strong>, no momento mais difícil
+            que cada cidadão enfrenta. Além disso, é composto por especialistas em diversas áreas do Direito, de moto
+            que <strong>o
+              cliente tem, em um só lugar, todas as soluções jurídicas, pois não basta ser advogado, tem que ser
+              especializado</strong>.</p>
+
+          <p>Para isso, cada atendimento é feito com o propósito de esclarecer os clientes sobre seus direitos e com a
+            realização de
+            pesquisa avançada de toda legislação necessária à resolução dos problemas, <strong>utilizando-se de
+              linguagem popular, sem o uso de "juridiques"</strong>.</p>
+
+          <p>Destaca-se ainda que Aline Oliveira Advocacia Especializada <strong>é referência na concessão de benefícios
+              previdenciários</strong>, tanto no INSS, bem como nos Regimes Próprios de Previdência Social, buscando
+            sempre o melhor e maior benefício, cumprindo a missão que cada benefício concedido é uma família protegida.
+          </p>
+
+          <p>Por fim, a <strong>experiência de quase duas décadas</strong>, atrelado a inocação digital e a constante
+            atualização jurídica são pilares que traz segurança e confiabilidade aos clientes para entregarem seus
+            anseios em nossas mãos.</p>
         </div>
       </div>
     </div>

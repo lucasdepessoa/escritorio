@@ -15,7 +15,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
+  color: #4a4949;
   background: #fff;
 }
 
@@ -802,7 +802,8 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-heading p {
   font-size: 18px;
   line-height: 1.5;
-  color: #828282;
+  color: #4a4949;
+
 }
 .fh5co-heading span {
   display: block;
@@ -2118,4 +2119,9 @@ form#formCriacao textarea:focus{
 .ajeita223{
   margin-top: 60px;
   margin-bottom: 10px;
+}
+
+.timeline p {
+  color: #4a4949;
+  text-align: justify;
 }
