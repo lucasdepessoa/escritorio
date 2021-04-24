@@ -2103,3 +2103,11 @@ form#formCriacao textarea:focus{
 .menuSocial li i {
   font-size:20px!important;
 }
+
+.porqueNosEscolher p {
+  text-align: justify;
+}
+
+.ajeitaPad {
+  padding-bottom: 0px!important;
+}

@@ -173,19 +173,19 @@
           </div>
           <div class="col-md-3 text-center animate-box">
             <span class="icon"><i class="icon-users"></i></span>
-            <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
+            <span class="fh5co-counter js-counter" data-from="0" data-to="26304" data-speed="5000"
               data-refresh-interval="50"></span>
             <span class="fh5co-counter-label">CLIENTES ATENDIDOS</span>
           </div>
           <div class="col-md-3 text-center animate-box">
             <span class="icon"><i class="fas fa-award"></i></span>
-            <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
+            <span class="fh5co-counter js-counter" data-from="0" data-to="5536" data-speed="5000"
               data-refresh-interval="50"></span>
             <span class="fh5co-counter-label">CLIENTES APOSENTADOS</span>
           </div>
           <div class="col-md-3 text-center animate-box">
             <span class="icon"><i class="far fa-smile-beam"></i></span>
-            <span class="fh5co-counter js-counter" data-from="0" data-to="999" data-speed="5000"
+            <span class="fh5co-counter js-counter" data-from="0" data-to="10521" data-speed="5000"
               data-refresh-interval="50"></span>
             <span class="fh5co-counter-label">VIDAS TRANSFORMADAS</span>
           </div>
@@ -199,11 +199,19 @@
         <a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-video2"></i></a>
         <div class="overlay"></div>
       </div>
-      <div class="choose animate-box">
-        <div class="fh5co-heading">
+      <div class="choose animate-box ajeitaPad">
+        <div class="fh5co-heading porqueNosEscolher">
           <h2>Porque nos escolher?</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eaque, ad incidunt explicabo esse ullam
-            omnis non ipsum magnam numquam odit veritatis sint unde dolorum veniam modi velit sit quod.</p>
+          <p><strong>Aline Oliveira Advocacia Especializada</strong> é um diferencial de advocacia atual, pois adotam princípios na administração organizacional, que traz <strong>soluções júridicas de modo ágil e eficaz</strong>, no momento mais difícil
+          que cada cidadão enfrenta. Além disso, é composto por especialistas em diversas áreas do Direito, de moto que <strong>o 
+          cliente tem, em um só lugar, todas as soluções jurídicas, pois não basta ser advogado, tem que ser especializado</strong>.</p>
+          
+          <p>Para isso, cada atendimento é feito com o propósito de esclarecer os clientes sobre seus direitos e com a realização de 
+          pesquisa avançada de toda legislação necessária à resolução dos problemas, <strong>utilizando-se de linguagem popular, sem o uso de "juridiques"</strong>.</p>
+          
+          <p>Destaca-se ainda que Aline Oliveira Advocacia Especializada <strong>é referência na concessão de benefícios previdenciários</strong>, tanto no INSS,  bem como nos Regimes Próprios de Previdência Social, buscando sempre o melhor e maior benefício, cumprindo a missão que cada benefício concedido é uma família protegida.</p>
+
+          <p>Por fim, a <strong>experiência de quase duas décadas</strong>, atrelado a inocação digital e a constante atualização jurídica são pilares que traz segurança e confiabilidade aos clientes para entregarem seus anseios em nossas mãos.</p>
         </div>
       </div>
     </div>
@@ -317,6 +325,7 @@
         <div class="row animate-box">
           <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
             <h2>DEPOIMENTOS</h2>
+            <h3>Possuímos <strong>96%</strong> de aprovação com os nossos Clientes e</h3>
             <h3>4.8 DE 5 ESTRELAS NO GOOGLE</h3>
             <p>Nossa avaliação é de <strong>4.8</strong> de <strong>5</strong> no Google com diversos comentários. Você
               pode acessar
