@@ -334,14 +334,65 @@
             </div>
           </div>
         </div><!-- fim row -->
-        <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+            <h2>Fazem parte da nossa grade de atuação, a <strong>Concessão e Revisão de todos os benefícios
+                previdenciários, como : </strong></h2>
+          </div>
+          <div class="col-md-4 text-left">
+            <ul>
+              <li>Aposentadoria Especial</li>
+              <li>Aposentadoria por Idade (Rural, Urbana e Mista)</li>
+              <li>Aposentadoria por Tempo de Contribuição</li>
+            </ul>
+          </div>
+          <div class="col-md-4 text-left">
+            <ul>
+              <li>Benefício por incapacidade permanente</li>
+              <li>Benefício por incapacidade temporária</li>
+              <li>Auxílio-Acidente</li>
+              <li>Auxílio-Reclusão</li>
+            </ul>
+          </div>
+          <div class="col-md-4 text-left">
+            <ul>
+              <li>Salário Maternidade</li>
+              <li>Benefício Assistencial (Portador de Deficiência e Idoso)</li>
+              <li>Pensão por Morte</li>
+            </ul>
+          </div>
+          <div class="col-md-8 col-md-offset-2 text-center fh5co-heading corrige345">
+            <h3><strong>Além disso, também realizamos : </strong></h3>
+          </div>
+        </div><!-- fim row-->
+        <div class="row animate-box">
+          <div class="col-md-4">
+            <ul>
+              <li>Averbação de acréscimo de tempo de serviço urbano e Rual, sem registro</li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <ul>
+              <li>Averbação de acréscimo de tempo de serviço laborado em atividade especial</li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <ul>
+              <li>Regularização de contribuições prvidenciárias em atraso</li>
+              <li>Pareceres</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box ajeita223">
           <a class="botaoMais" href="./won.php">
-            <h3>PROCURANDO MAIS ?</h3>
+            <h2>PROCURANDO MAIS ?</h2>
           </a>
         </div>
       </div>
       <!--fim containter -->
     </div>
+
+
 
     <div id="fh5co-testimonial" class="fh5co-bg-section arPad">
       <div class="container">

@@ -2096,7 +2096,7 @@ form#formCriacao textarea:focus{
   box-shadow:none!important;
 }
 
-.botaoMais h3 {
+.botaoMais h2 {
   color: #c7954b;
 }
 
@@ -2110,4 +2110,12 @@ form#formCriacao textarea:focus{
 
 .ajeitaPad {
   padding-bottom: 0px!important;
+}
+.corrige345{
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+.ajeita223{
+  margin-top: 60px;
+  margin-bottom: 10px;
 }
