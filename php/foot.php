@@ -1,7 +1,7 @@
 <footer id="fh5co-footer" role="contentinfo">
     <div class="container">
         <div class="row row-pb-md">
-            <div class="col-md-4 col-md-push-1">
+            <div class="col-md-3 col-md-push-1">
                 <h4>Navegação</h4>
                 <ul class="fh5co-footer-links">
                     <li><a href="./index.html">Home</a></li>
@@ -14,7 +14,16 @@
                 </ul>
             </div>
 
-            <div class="col-md-4 col-md-push-1">
+            <div class="col-md-3 col-md-push-1">
+                <h4>Política de Dados</h4>
+                <ul class="fh5co-footer-links">
+                    <li><a href="php/politica-cookie.php">Política de uso de Cookies</a></li>
+                    <li><a href="php/politica-privacidade.php">Política de Privacidade</a></li>
+                    <li><a href="#">Para Advogados</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-3 col-md-push-1">
                 <h4>Informações de Contato</h4>
                 <ul class="fh5co-footer-links">
                     <li>R. Couto Magalhães 2073, <br> Centro Franca - São Paulo</li>
@@ -25,7 +34,7 @@
                 </ul>
             </div>
 
-            <div class="col-md-4 col-md-push-1">
+            <div class="col-md-3 col-md-push-1">
                 <h4>Horário de Atendimento</h4>
                 <ul class="fh5co-footer-links">
                     <li>Segunda-feira - Sexta-feira: 9:00 - 18:00</li>
@@ -39,16 +48,20 @@
         <div class="row copyright">
             <div class="col-md-12 text-center">
                 <p>
-                    <small class="block">&copy; 2021 Alive Oliveira Advocacia. All Rights Reserved.</small> 
+                    <small class="block">&copy; 2021 Alive Oliveira Advocacia. All Rights Reserved.</small>
                 </p>
                 <p>
-                    <ul class="fh5co-social-icons">
-                        <li><a href="https://www.facebook.com/alineoliveiraadvocacia/" target="_BLANK"><i class="icon-facebook"></i></a></li>
-                        <li><a href="https://www.linkedin.com/company/alineoliveiraadvocacia/" target="_BLANK"><i class="icon-linkedin"></i></a></li>
-                        <li><a href="https://www.instagram.com/alineoliveiraadvocacia/" target="_BLANK"><i class="icon-instagram"></i></a></li>
-                        <li><a href="https://youtube.com/channel/UCpvD5JL1bOiC8sWQW8ozc7g" target="_BLANK"><i class="icon-youtube"></i></a></li>
+                <ul class="fh5co-social-icons">
+                    <li><a href="https://www.facebook.com/alineoliveiraadvocacia/" target="_BLANK"><i
+                                class="icon-facebook"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/alineoliveiraadvocacia/" target="_BLANK"><i
+                                class="icon-linkedin"></i></a></li>
+                    <li><a href="https://www.instagram.com/alineoliveiraadvocacia/" target="_BLANK"><i
+                                class="icon-instagram"></i></a></li>
+                    <li><a href="https://youtube.com/channel/UCpvD5JL1bOiC8sWQW8ozc7g" target="_BLANK"><i
+                                class="icon-youtube"></i></a></li>
 
-                    </ul>
+                </ul>
                 </p>
             </div>
         </div>
