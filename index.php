@@ -325,7 +325,7 @@
           </div>
 
           <div class="col-md-12 text-center animate-box">
-            <p><a class="btn btn-primary btn-lg btn-learn" href="./practice.php">Veja Mais</a></p>
+            <p><a class="btn btn-primary btn-lg btn-learn" href="./servicos.php">Veja Mais</a></p>
           </div>
         </div>
       </div>
