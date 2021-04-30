@@ -5,11 +5,11 @@
                 <h4>Navegação</h4>
                 <ul class="fh5co-footer-links">
                     <li><a href="./index.php">Home</a></li>
-                    <li><a href="./practice.php">Especialidades</a></li>
-                    <li><a href="./won.php">Consulta</a></li>
+                    <li><a href="./servicos.php">Especialidades</a></li>
+                    <li><a href="./consulta.php">Consulta</a></li>
                     <li><a href="./blog.php">Blog</a></li>
-                    <li><a href="./about.php">Sobre Nós</a></li>
-                    <li><a href="./contact.php">Calculadora</a></li>
+                    <li><a href="./sobrenos.php">Sobre Nós</a></li>
+                    <li><a href="./contato.php">Calculadora</a></li>
                     <li><a href="./admin.php">Área Administrativa</a></li>
                 </ul>
             </div>
