@@ -4,12 +4,12 @@
             <div class="col-md-3 col-md-push-1">
                 <h4>Navegação</h4>
                 <ul class="fh5co-footer-links">
-                    <li><a href="./index.html">Home</a></li>
-                    <li><a href="./practice.html">Especialidades</a></li>
-                    <li><a href="./won.html">Consulta</a></li>
-                    <li><a href="./blog.html">Blog</a></li>
-                    <li><a href="./about.html">Sobre Nós</a></li>
-                    <li><a href="./contact.html">Calculadora</a></li>
+                    <li><a href="./index.php">Home</a></li>
+                    <li><a href="./practice.php">Especialidades</a></li>
+                    <li><a href="./won.php">Consulta</a></li>
+                    <li><a href="./blog.php">Blog</a></li>
+                    <li><a href="./about.php">Sobre Nós</a></li>
+                    <li><a href="./contact.php">Calculadora</a></li>
                     <li><a href="./admin.php">Área Administrativa</a></li>
                 </ul>
             </div>
