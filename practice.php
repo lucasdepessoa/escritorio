@@ -74,11 +74,11 @@
             <div class="col-xs-10 text-right menu-1">
               <ul>
                 <li><a href="index.php">Home</a></li>
-                <li class="active"><a href="practice.php">Especialidades</a></li>
-                <li><a href="won.php">Consultas</a></li>
+                <li class="active"><a href="servicos.php">Especialidades</a></li>
+                <li><a href="consulta.php">Consultas</a></li>
                 <li><a href="blog.php">Blog</a></li>
-                <li><a href="about.php">Sobre Nós</a></li>
-                <li><a href="contact.php">Calculadora de Aposentadoria</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="contato.php">Calculadora de Aposentadoria</a></li>
                 <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
               </ul>
@@ -100,7 +100,7 @@
                   <h2 class="heading-section">Especialistas à sua Espera</h2>
                   <p>Profissionais Capacitados e experientes a sua disposição<br> Atendimento presencial em Franca - SP
                     e à Distância em todo o Brasil</p>
-                  <p><a class="btn btn-primary btn-lg" href="./won.php">CONSULTE AQUI</a></p>
+                  <p><a class="btn btn-primary btn-lg" href="./consulta.php">CONSULTE AQUI</a></p>
                 </div>
               </div>
             </div>
@@ -384,7 +384,7 @@
           </div>
         </div>
         <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box ajeita223">
-          <a class="botaoMais" href="./won.php">
+          <a class="botaoMais" href="./consulta.php">
             <h2>PROCURANDO MAIS ?</h2>
           </a>
         </div>
@@ -422,7 +422,7 @@
         </div>
         <div class="row animate-box">
           <div class="col-md-8 col-md-offset-2 text-center">
-            <p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
+            <p><a href="./consulta.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
           </div>
         </div>
       </div>
