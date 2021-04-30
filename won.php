@@ -73,11 +73,11 @@
             <div class="col-xs-10 text-right menu-1">
               <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="practice.php">Especialidades</a></li>
-                <li class="active"><a href="won.php">Consultas</a></li>
+                <li><a href="servicos.php">Especialidades</a></li>
+                <li class="active"><a href="consulta.php">Consultas</a></li>
                 <li><a href="blog.php">Blog</a></li>
-                <li><a href="about.php">Sobre Nós</a></li>
-                <li><a href="contact.php">Calculadora de Aposentadoria</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="contato.php">Calculadora de Aposentadoria</a></li>
                 <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
               </ul>
