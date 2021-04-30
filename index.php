@@ -54,12 +54,12 @@
 </head>
 
 <body>
-	
-	<?php
+
+  <?php
 		require('php/menuSuperior.php');
 	?>
-  
-	<div class="fh5co-loader"></div>
+
+  <div class="fh5co-loader"></div>
 
   <div id="page">
 
@@ -75,11 +75,11 @@
             <div class="col-xs-10 text-right menu-1">
               <ul>
                 <li class="active"><a href="index.php">Home</a></li>
-                <li><a href="practice.php">Especialidades</a></li>
-                <li><a href="won.php">Consultas</a></li>
+                <li><a href="servicos.php">Especialidades</a></li>
+                <li><a href="consulta.php">Consultas</a></li>
                 <li><a href="blog.php">Blog</a></li>
-                <li><a href="about.php">Sobre Nós</a></li>
-                <li><a href="contact.php">Calculadora de Aposentadoria</a></li>
+                <li><a href="sobrenos.php">Sobre Nós</a></li>
+                <li><a href="contato.php">Calculadora de Aposentadoria</a></li>
               </ul>
             </div>
           </div>
@@ -100,7 +100,7 @@
                     <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione totam maxime aliquam
                       accusantium rerum tempora incidunt eveniet repellat at quibusdam, et sapiente excepturi ducimus
                       consequatur quisquam officiis quasi voluptas quas?</h2>
-                    <p><a class="btn btn-primary btn-lg" href="./won.php">CONSULTE AQUI</a></p>
+                    <p><a class="btn btn-primary btn-lg" href="./consulta.php">CONSULTE AQUI</a></p>
                   </div>
                 </div>
               </div>
@@ -133,7 +133,7 @@
                     <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui a molestiae obcaecati tempore iste
                       sunt quis nesciunt necessitatibus? Eveniet, quas. Hic excepturi laboriosam vel commodi repellat
                       perspiciatis optio laudantium ipsam?</h2>
-                    <p><a class="btn btn-primary btn-lg btn-learn" href="./won.php">CONSULTE AQUI</a></p>
+                    <p><a class="btn btn-primary btn-lg btn-learn" href="./consulta.php">CONSULTE AQUI</a></p>
                   </div>
                 </div>
               </div>
@@ -153,7 +153,7 @@
             <h4>AGENDE A SUA CONSULTA ESPECIALIZADA</h4>
             <p>
 
-              <a class="btn btn-primary btn-learn" href="./won.php">
+              <a class="btn btn-primary btn-learn" href="./consulta.php">
                 ADVOGADOS ESPECIALISTAS À DISPOSIÇÃO <br>FALE AGORA.
               </a>
             </p>
@@ -202,16 +202,27 @@
       <div class="choose animate-box ajeitaPad">
         <div class="fh5co-heading porqueNosEscolher">
           <h2>Porque nos escolher?</h2>
-          <p><strong>Aline Oliveira Advocacia Especializada</strong> é um diferencial de advocacia atual, pois adotam princípios na administração organizacional, que traz <strong>soluções júridicas de modo ágil e eficaz</strong>, no momento mais difícil
-          que cada cidadão enfrenta. Além disso, é composto por especialistas em diversas áreas do Direito, de moto que <strong>o 
-          cliente tem, em um só lugar, todas as soluções jurídicas, pois não basta ser advogado, tem que ser especializado</strong>.</p>
-          
-          <p>Para isso, cada atendimento é feito com o propósito de esclarecer os clientes sobre seus direitos e com a realização de 
-          pesquisa avançada de toda legislação necessária à resolução dos problemas, <strong>utilizando-se de linguagem popular, sem o uso de "juridiques"</strong>.</p>
-          
-          <p>Destaca-se ainda que Aline Oliveira Advocacia Especializada <strong>é referência na concessão de benefícios previdenciários</strong>, tanto no INSS,  bem como nos Regimes Próprios de Previdência Social, buscando sempre o melhor e maior benefício, cumprindo a missão que cada benefício concedido é uma família protegida.</p>
+          <p><strong>Aline Oliveira Advocacia Especializada</strong> é um diferencial de advocacia atual, pois adotam
+            princípios na administração organizacional, que traz <strong>soluções júridicas de modo ágil e
+              eficaz</strong>, no momento mais difícil
+            que cada cidadão enfrenta. Além disso, é composto por especialistas em diversas áreas do Direito, de moto
+            que <strong>o
+              cliente tem, em um só lugar, todas as soluções jurídicas, pois não basta ser advogado, tem que ser
+              especializado</strong>.</p>
 
-          <p>Por fim, a <strong>experiência de quase duas décadas</strong>, atrelado a inocação digital e a constante atualização jurídica são pilares que traz segurança e confiabilidade aos clientes para entregarem seus anseios em nossas mãos.</p>
+          <p>Para isso, cada atendimento é feito com o propósito de esclarecer os clientes sobre seus direitos e com a
+            realização de
+            pesquisa avançada de toda legislação necessária à resolução dos problemas, <strong>utilizando-se de
+              linguagem popular, sem o uso de "juridiques"</strong>.</p>
+
+          <p>Destaca-se ainda que Aline Oliveira Advocacia Especializada <strong>é referência na concessão de benefícios
+              previdenciários</strong>, tanto no INSS, bem como nos Regimes Próprios de Previdência Social, buscando
+            sempre o melhor e maior benefício, cumprindo a missão que cada benefício concedido é uma família protegida.
+          </p>
+
+          <p>Por fim, a <strong>experiência de quase duas décadas</strong>, atrelado a inocação digital e a constante
+            atualização jurídica são pilares que traz segurança e confiabilidade aos clientes para entregarem seus
+            anseios em nossas mãos.</p>
         </div>
       </div>
     </div>
@@ -335,11 +346,11 @@
             </p>
           </div>
         </div>
-       
+
       </div>
     </div>
 
-   
+
     <div id="fh5co-blog" class="fh5co-bg-section">
       <div class="container">
         <div class="row animate-box">
@@ -466,7 +477,7 @@
         </div>
         <div class="row animate-box">
           <div class="col-md-8 col-md-offset-2 text-center">
-            <p><a href="./won.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
+            <p><a href="./consulta.php" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
           </div>
         </div>
       </div>
@@ -529,6 +540,69 @@
   setTimeout(() => {
     document.querySelector('.sc-7dvmpp-1').remove()
   }, 4000);
+  </script>
+
+  <script type="text/javascript">
+
+  // -- COOKIE -- //
+  var purecookieTitle = "Cookies.",
+    purecookieDesc = "Ao utilizar esse site, você automaticamente autoriza que utilizemos cookies.",
+    purecookieLink =
+    '<a href="https://www.advocaciaalineoliveira.com.br/php/politica-cookie.php" target="_blank">Para que ?</a>',
+    purecookieButton = "Entendido";
+
+  function pureFadeIn(e, o) {
+    var i = document.getElementById(e);
+    i.style.opacity = 0, i.style.display = o || "block",
+      function e() {
+        var o = parseFloat(i.style.opacity);
+        (o += .02) > 1 || (i.style.opacity = o, requestAnimationFrame(e))
+      }()
+  }
+
+  function pureFadeOut(e) {
+    var o = document.getElementById(e);
+    o.style.opacity = 1,
+      function e() {
+        (o.style.opacity -= .02) < 0 ? o.style.display = "none" : requestAnimationFrame(e)
+      }()
+  }
+
+  function setCookie(e, o, i) {
+    var t = "";
+    if (i) {
+      var n = new Date;
+      n.setTime(n.getTime() + 24 * i * 60 * 60 * 1e3), t = "; expires=" + n.toUTCString()
+    }
+    document.cookie = e + "=" + (o || "") + t + "; path=/"
+  }
+
+  function getCookie(e) {
+    for (var o = e + "=", i = document.cookie.split(";"), t = 0; t < i.length; t++) {
+      for (var n = i[t];
+        " " == n.charAt(0);) n = n.substring(1, n.length);
+      if (0 == n.indexOf(o)) return n.substring(o.length, n.length)
+    }
+    return null
+  }
+
+  function eraseCookie(e) {
+    document.cookie = e + "=; Max-Age=-99999999;"
+  }
+
+  function cookieConsent() {
+    getCookie("purecookieDismiss") || (document.body.innerHTML +=
+      '<div class="cookieConsentContainer" id="cookieConsentContainer"><div class="cookieTitle"><a>' +
+      purecookieTitle + '</a></div><div class="cookieDesc"><p>' + purecookieDesc + " " + purecookieLink +
+      '</p></div><div class="cookieButton"><a onClick="purecookieDismiss();">' + purecookieButton +
+      "</a></div></div>", pureFadeIn("cookieConsentContainer"))
+  }
+
+  function purecookieDismiss() {
+    setCookie("purecookieDismiss", "1", 3), pureFadeOut("cookieConsentContainer")
+  }
+
+  cookieConsent()
   </script>
 
 </body>
