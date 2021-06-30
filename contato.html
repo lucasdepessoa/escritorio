@@ -56,7 +56,7 @@
 
 <body>
   <?php
-		require('php/menuSuperior.php');
+		require('php/menuSuperior.html');
 	?>
 
   <div class="fh5co-loader"></div>
@@ -67,17 +67,17 @@
         <div class="container">
           <div class="row">
             <div class="col-xs-2">
-              <div id="fh5co-logo"><a href="index.php"><img class="brand-logo" src="./images/logo.png"><span></span></a>
+              <div id="fh5co-logo"><a href="index.html"><img class="brand-logo" src="./images/logo.png"><span></span></a>
               </div>
             </div>
             <div class="col-xs-10 text-right menu-1">
               <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="servicos.php">Especialidades</a></li>
-                <li class="active"><a href="consulta.php">Consultas</a></li>
-                <li><a href="blog.php">Blog</a></li>
-                <li><a href="sobrenos.php">Sobre Nós</a></li>
-                <li><a href="contato.php">Calculadora de Aposentadoria</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="servicos.html">Especialidades</a></li>
+                <li><a href="consulta.html">Consultas</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="sobrenos.html">Sobre Nós</a></li>
+                <li class="active"><a href="contato.html">Calculadora de Aposentadoria</a></li>
                 <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li>
 							<li class="btn-cta"><a href="#"><span>Sign Up</span></a></li> -->
               </ul>
@@ -96,9 +96,9 @@
             <div class="container">
               <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
                 <div class="slider-text-inner desc">
-                  <h2 class="heading-section">Realize Aqui A Sua Pré Consulta</h2>
-                  <p class="fh5co-lead">Nos envie seus dados básicos para contato e faça um resumo da
-                    sua necessidade.</p>
+                  <h2 class="heading-section">Calcule o seu tempo de Contribuição</h2>
+                  <p>Realize o seu cálculo de tempo de contribuição conosco sem compromisso !<br>
+                    Iremos entrar em contato para mais detalhes</p>
                 </div>
               </div>
             </div>
@@ -112,8 +112,8 @@
         <div class="row">
           <div class="col-md-3 animate-box"></div>
           <div class="col-md-6 animate-box">
-            <h3 class="pagetitle">Realize aqui a sua pré consulta</h3>
-            <form id="formConsulta" action="#" method="POST">
+            <h3 class="pagetitle">Calcule Aqui e Entraremos em Contato</h3>
+            <form id="formCalculo" action="?" method="POST">
               <div class="row form-group">
                 <div class="col-md-12">
                   <label for="INome">Nome Completo</label>
@@ -138,20 +138,41 @@
               </div>
 
               <div class="row form-group">
-
+                <div class="col-md-6">
+                  <label for="IDataNasc">Data de Nascimento</label>
+                  <input type="date" name="IDataNasc" id="IDataNasc" class="form-control" placeholder="dd/mm/aaaa">
+                </div>
                 <div class="col-md-6">
                   <label for="lPhone">Telefone/Celular</label>
                   <input type="text" name="IPhone" id="IPhone" class="form-control" placeholder="+55 (99) 99999-9999">
                 </div>
-                <div class="col-md-6">
-                  <label for="IDataNasc">Atendimento</label>
-                  <select name="atendimento" id="SAtendimento" class="form-control">
-                    <option value="Presencial">Presencial</option>
-                    <option value="Distancia">A Distância</option>
-                  </select>
+              </div>
 
+              <div class="row form-group radio-group">
+                <div class="col-md-12 radio-buttons">
+                  <label class="custom-radio">
+                    <input type="radio" name="genero" id="IFem" class="form-control" value="feminino" checked>
+                    <span class="radio-btn">
+                      <i class="fas fa-female"></i>
+                      <div class="gender-icon">
+                        <h3>Feminino</h3>
+                      </div>
+                    </span>
+
+
+                  </label>
+                  <label class="custom-radio">
+                    <input type="radio" name="genero" id="IMasc" class="form-control" value="masculino">
+                    <span class="radio-btn">
+                      <i class="fas fa-male"></i>
+                      <div class="gender-icon">
+                        <h3>Masculino</h3>
+                      </div>
+                    </span>
+                  </label>
                 </div>
               </div>
+
               <div class="row form-group">
                 <div class="col-md-12">
                   <label for="IEmail">Email</label>
@@ -159,82 +180,99 @@
                 </div>
               </div>
               <div class="row form-group">
-                <label class="lbDiferente">Qual a Especialidade?</label>
-                <div class="col-md-12 especs">
-
+                <div class="col-md-12 cnisBox">
+                  <h3>Deseja Encaminhar o CNIS ?</h3>
                   <label>
-                    <input type="checkbox" name="previdenciario" class="option-input checkbox" />
-                    Direito Previdenciário <span class="descPrev">(aposentadorias, revisões,
-                      benefícios em geral...)</span>
-                  </label>
-                  <label>
-                    <input type="checkbox" name="trabalhista" class="option-input checkbox" />
-                    Direito do Trabalho
-                  </label>
-                  <label>
-                    <input type="checkbox" name="familiar" class="option-input checkbox" />
-                    Direito Familiar ou Sucessões
-                  </label>
-                  <label>
-                    <input type="checkbox" name="consumidor" class="option-input checkbox" />
-                    Direito do Consumidor
-                  </label>
-                  <label>
-                    <input type="checkbox" name="acidentario" class="option-input checkbox" />
-                    Direito Acidentário ou Indenizações
-                  </label>
-                  <label>
-                    <input type="checkbox" name="criminal" class="option-input checkbox" />
-                    Direito Criminal
-                  </label>
-                  <label>
-                    <input type="checkbox" name="empresarial" class="option-input checkbox" />
-                    Direito Empresarial
-                  </label>
-                  <label>
-                    <input type="checkbox" name="civil" class="option-input checkbox" />
-                    Direito Civil
+                    <input type="file" name="IArquivo" class="form-control" id="arquivo">
                   </label>
                 </div>
               </div>
-              <div class="row form-group">
+              <!-- <div class="row form-group">
+							<div class="col-md-12">
+								<label for="message">Message</label>
+								<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+							</div>
+						</div> -->
+
+              <div class="form-group">
                 <div class="col-md-12">
-                  <label for="message">Faça um resumo da sua necessidade:</label>
-                  <textarea name="necessidade" id="message" cols="30" rows="10" class="form-control"
-                    placeholder="Relate aqui a sua necessidade"></textarea>
+                  <div class="table-responsive-vertical">
+                    <table class="table table-bordered table-striped table-hover table-mc-red table-sm">
+                      <thead>
+                        <tr>
+                          <th>#</th>
+                          <th>Admissão</th>
+                          <th>Recisão</th>
+                          <th>Profissão</th>
+                          <th>Insalubridade</th>
+                          <th> </th>
+                        </tr>
+                      </thead>
+                      <tbody id="corpoProfissao">
+                        <tr id="1">
+                          <td class="numerador">1</td>
+                          <td data-title="Admissão">
+                            <input type="date" id="admissao1" name="admissao1" class="form-control" required>
+                          </td>
+                          <td data-title="Recisão">
+                            <input type="date" id="demissao1" name="demissao1" class="form-control" required>
+                          </td>
+                          <td data-title="Profissão"><input type="text" id="profissao1" name="profissao1"
+                              class="form-control prof" required>
+                          </td>
+                          <td data-title="Insalubridade">
+                            <input type="checkbox" name="insalubre" class="insalubre">
+                          </td>
+                          <td>
+                            <button type="button" class="btn btn-danger deletaLinha" disabled>X</button>
+                          </td>
+                        </tr>
+                        <tr id="addBotao">
+                          <td colspan="6"><button type="button" id="btnAddLinha"
+                              class="btn btn-small btn-success float-right">Período
+                              +</button></td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                  </div>
                 </div>
               </div>
               <div class="form-group">
-                <button type="button" id="enviarConsulta" class="btn btn-primary">Enviar Mensagem</button>
+                <button type="button" id="enviaCalculo" class="btn btn-primary">Enviar Cálculo</button>
               </div>
+
+
+
             </form>
           </div>
-
           <div class="col-md-1 animate-box"></div>
         </div>
 
       </div>
     </div>
 
-    <div id="fh5co-testimonial" class="fh5co-bg-section arPad">
+    <div id="map" class="fh5co-map"></div>
+
+    <div id="fh5co-started" style="background-image:url(images/img_bg_2.jpg);">
+      <div class="overlay"></div>
       <div class="container">
         <div class="row animate-box">
           <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-            <h2>DEPOIMENTOS</h2>
-            <h3>4.8 DE 5 ESTRELAS NO GOOGLE</h3>
-            <p>Nossa avaliação é de <strong>4.8</strong> de <strong>5</strong> no Google com diversos comentários. Você
-              pode acessar
-              eles de forma pública digitando Aline Oliveira Advocacia Especializada ou <a target="_BLANK"
-                href="https://www.google.com/search?q=aline+oliveira+advocacia+especializada&rlz=1C1GCEU_pt-BRBR869BR869&oq=aline+&aqs=chrome.0.69i59l2j69i57j46i433j69i60j69i61l3.1031j0j7&sourceid=chrome&ie=UTF-8#lrd=0x94b0a6313d669b41:0xaf34c298b029070c,1,,,">clicando
-                aqui</a>.
-            </p>
+            <h2>Precisa de Ajuda ?</h2>
+            <p>Nós ajudamos pessoas a lutar e defender seus direitos de forma eficiente!</p>
+          </div>
+        </div>
+        <div class="row animate-box">
+          <div class="col-md-8 col-md-offset-2 text-center">
+            <p><a href="./consulta.html" class="btn btn-default btn-lg">CONSULTE AQUI</a></p>
           </div>
         </div>
       </div>
     </div>
 
     <?php
-			require('./php/foot.php');
+			require('./php/foot.html');
 		?>
 
   </div>
@@ -244,7 +282,7 @@
   </div>
 
   <!-- jQuery -->
-  <script src="js/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <!-- jQuery Easing -->
   <script src="js/jquery.easing.1.3.js"></script>
   <!-- Bootstrap -->
@@ -262,10 +300,17 @@
   <!-- Magnific Popup -->
   <script src="js/jquery.magnific-popup.min.js"></script>
   <script src="js/magnific-popup-options.js"></script>
+  <!-- Google Map
+	<script
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+	<script src="js/google_map.js"></script> -->
+  <!-- moment js-->
+  <script src="js/moment.js"></script>
   <!-- Main -->
   <script src="js/main.js"></script>
-  <!-- Calculadora (JS)-->
+  <!-- calculadora -->
   <script class="aleatorio" src="js/calculadora.js"></script>
+
   <!-- Whatsapp Plugin -->
   <script class="tt" type="text/javascript">
   (function() {
